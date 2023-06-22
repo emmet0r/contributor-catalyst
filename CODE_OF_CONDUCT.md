@@ -63,9 +63,9 @@ The following behaviors are considered harassment and are unacceptable within ou
 By choosing to engage with our community, you commit to aligning with our values and expectations for behavior.
 
 ## Reporting Guidelines
-If you believe anyone is in immediate physical danger, please notify appropriate law enforcement first. (In Santa Cruz, dialing 911 is the best way to do this, on- or off-campus. If you are unable to call, you can also text 911 as outlined (here)[https://police.ucsc.edu/about/directory.html]. If you are unsure what law enforcement agency is appropriate, please include this in your report and we will attempt to notify them. [TODO: discuss removing last sentence?] 
+If you believe anyone is in immediate physical danger, please notify appropriate law enforcement first. (In Santa Cruz, dialing 911 is the best way to do this, on- or off-campus. If you are unable to call, you can also text 911 as outlined [here](https://police.ucsc.edu/about/directory.html). For non-emergency situations, please submit a report as outlined below and community organizers will notify law enforcement if necessary.
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, campus police will also provide escorts as desired by the person experiencing distress. [TODO: campus resources/verify access - new info: CSOs are visible in the communities at night from 7pm to 3am and can be approached for assistance or you can call (831) 459-2100, the Safety Dispatch Officer Line.]
+Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. **For in-person, after-hours support, you can contact UCSC's Safety Dispatch Office Line: (831) 459-2100**. Community Safety Officersties (CSOs) are visible in campus residential communities from 7pm to 3am nightly, and may also be approached for help.
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible:
 - Emily Lovell (she/her) : emme@soe.ucsc.edu
@@ -76,11 +76,11 @@ If you believe someone is violating the code of conduct we ask that you report i
 - Jarett Haley (he/him), _Retention Specialist, Office for African, Black, Caribbean Student Success_ (jdhaley@ucsc.edu)
 - Ariana Yancey, _Graduate Student Intern, Office for African, Black, Caribbean Student Success_ (ayancey@ucsc.edu)
 
-All reports will be kept confidential, unless required by law or given consent of the reporting party. [TODO: think on confidentiality language]
+The identity of any individuals involved in a report will remain confidential, unless consent is given or required by campus procedures or by law. 
 
 In your report please include:
 
-* Your contact info (so we can get in touch with you if we need to follow up)
+* Your contact info (so we can get in touch with you if we need to follow up).
 * Names (real, nicknames, or pseudonyms) of any individuals involved. If there were other witnesses besides you, please try to include them as well.
 * When and where the incident occurred. Please be as specific as possible.
 * Your account of what occurred. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger) please include a link.
@@ -93,10 +93,12 @@ If you are unsure whether the incident is a violation, or whether the space wher
 
 ## Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify GOVERNING_BODY with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify GOVERNING_BODY with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. Deliberate misuse of reporting procedures and/or submitting
+
+Please keep in mind that this reporting process is meant to be constructive. Consequently, we would like to dissuade abusing the reporting procedures with malicious intent.
 
 -> Enforcement - take a break
 -> Personal disputes / leave personal disagreements, settle privately / negotiate disagreement
 
 ## Attribution
--> add 2 CoCs used as source material
+-> add 3 CoCs used as source material
