@@ -90,3 +90,6 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 -> Enforcement - take a break
 -> Personal disputes / leave personal disagreements, settle privately / negotiate disagreement
+
+## Attribution
+-> add 2 CoCs used as source material
