@@ -100,6 +100,7 @@ Please keep in mind that this reporting process is meant to be constructive. Con
 -> Enforcement - take a break
 -> Personal disputes / leave personal disagreements, settle privately / negotiate disagreement 
 <!--- Define personal disputes and other personal disagreements --->
+-> This includes disputes unrelated to work or that did not occur in a Catalyst Managed Space
 
 ## Attribution
 -> add 3 CoCs used as source material
