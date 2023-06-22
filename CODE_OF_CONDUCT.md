@@ -63,13 +63,20 @@ The following behaviors are considered harassment and are unacceptable within ou
 By choosing to engage with our community, you commit to aligning with our values and expectations for behavior.
 
 ## Reporting Guidelines
-If you believe anyone is in physical danger, please notify appropriate law enforcement first. [EMILY TODO: insert campus plice] If you are unsure what law enforcement agency is appropriate, please include this in your report and we will attempt to notify them. [EMILY TODO: contact group coordinator] 
+If you believe anyone is in immediate physical danger, please notify appropriate law enforcement first. (In Santa Cruz, dialing 911 is the best way to do this, on- or off-campus. If you are unable to call, you can also text 911 as outlined (here)[https://police.ucsc.edu/about/directory.html]. If you are unsure what law enforcement agency is appropriate, please include this in your report and we will attempt to notify them. [TODO: discuss removing last sentence?] 
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, campus police will also provide escorts as desired by the person experiencing distress. [TODO: campus resources/verify access]
+Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, campus police will also provide escorts as desired by the person experiencing distress. [TODO: campus resources/verify access - new info: CSOs are visible in the communities at night from 7pm to 3am and can be approached for assistance or you can call (831) 459-2100, the Safety Dispatch Officer Line.]
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [CONTACT_INFO_HERE].
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible:
+- Emily Lovell (she/her) : emme@soe.ucsc.edu
+- Stephanie Lieggi (she/her) : slieggi@ucsc.edu
 
-If you believe someone is violating the code of conduct we ask that you report it to [EMILY TODO: add list of contacts and positions] the Django Software Foundation by emailing conduct@djangoproject.com. All reports will be kept confidential, unless required by law or given consent of the reporting party. [TODO: think on confidentiality language]
+If you believe someone is violating the code of conduct we ask that you report it to the community organizers listed above. If a report involved a community organizer - or you would feel more comfortable reporting to someone else at UC Santa Cruz - you may also reach out to:
+- Lorato Anderson (she/her), _Director of Diversity, Equity, and Inclusion in Graduate Studies_ (lodander@ucsc.edu)
+- Jarett Haley (he/him), _Retention Specialist, Office for African, Black, Caribbean Student Success_ (jdhaley@ucsc.edu)
+- Ariana Yancey, _Graduate Student Intern, Office for African, Black, Caribbean Student Success_ (ayancey@ucsc.edu)
+
+All reports will be kept confidential, unless required by law or given consent of the reporting party. [TODO: think on confidentiality language]
 
 In your report please include:
 
