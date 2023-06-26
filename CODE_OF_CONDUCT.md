@@ -102,4 +102,4 @@ Please keep in mind that this reporting process is meant to be constructive. Con
 <!--- Define personal disputes and other personal disagreements --->
 
 ## Attribution
--> add 3 CoCs used as source material
+TODO: add 3 CoCs used as source material ([Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md), [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/), [Django Code of Conduct](https://www.djangoproject.com/conduct/reporting/))
