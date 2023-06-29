@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 Meet the 2023 Cohort
 
-🕴🏾[Silas](https://github.com/SilasVM)📸
+🕴🏾[Silas](https://github.com/SilasVM) 📸
 
 ## 🚍 Getting Around 
 [Map](https://www.openstreetmap.org/#map=15/36.9895/-122.0574) of campus and town, including bike paths, foot paths, roads, and more (via [OpenStreetMap](https://github.com/openstreetmap/))
