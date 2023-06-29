@@ -97,8 +97,8 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 Please keep in mind that this reporting process is meant to be constructive. Consequently, we would like to dissuade abusing the reporting procedures with malicious intent.
 
--> Enforcement - take a break
--> Personal disputes / leave personal disagreements, settle privately / negotiate disagreement 
+<!--- Enforcement - take a break --->
+<!--- Personal disputes / leave personal disagreements, settle privately / negotiate disagreement  --->
 <!--- Define personal disputes and other personal disagreements --->
 
 ## Attribution
