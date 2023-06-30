@@ -1,5 +1,5 @@
 # Welcome to OSRE Catalyst!
-*Part of UC Santa Cruz's Open Source Resaerch Experience Program*
+*Part of UC Santa Cruz's Open Source Research Experience Program*
 
 ## 🧑‍💻 Meet the 2023 Cohort
 ### **[Aaron](https://github.com/thatguyseven/)**
