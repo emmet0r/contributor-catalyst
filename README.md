@@ -2,7 +2,7 @@
 *Part of UC Santa Cruz's Open Source Research Experience Program*
 
 ## 🧑‍💻 Meet the 2023 Cohort
-### **[Aaron](https://github.com/thatguyseven/)**
+### **[🐐Aaron🧩](https://github.com/thatguyseven/)**
 ### **[🥽Sekani🎨](https://github.com/snwarner22)**
 ### **[💥Onexi🌴](https://github.com/OnexiMedina)**
 ### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
