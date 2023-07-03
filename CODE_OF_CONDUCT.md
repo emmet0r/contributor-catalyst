@@ -106,6 +106,6 @@ Please keep in mind that this reporting process is meant to be constructive. Con
 ## Attribution
 This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
 
-Portions of this code of conduct are derived from the Citizen Code of Conduct(link), Contributor Covenant(link), Django(link).
+Portions of this code of conduct are derived from the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/), [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md), [Django](https://www.djangoproject.com/conduct/).
 
 TODO: add 3 CoCs used as source material ([Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md), [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/), [Django Code of Conduct](https://www.djangoproject.com/conduct/reporting/))
