@@ -104,4 +104,8 @@ Please keep in mind that this reporting process is meant to be constructive. Con
 -> This includes disputes unrelated to work or that did not occur in a Catalyst Managed Space
 
 ## Attribution
+This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
+
+Portions of this code of conduct are derived from the Citizen Code of Conduct(link), Contributor Covenant(link), Django(link).
+
 TODO: add 3 CoCs used as source material ([Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md), [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/), [Django Code of Conduct](https://www.djangoproject.com/conduct/reporting/))
