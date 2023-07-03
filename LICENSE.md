@@ -5,4 +5,4 @@
 
 #### *Any non-code Content, to include logos, text files, etc.. will be licensed under the [CC-BY-SA 3.0 License](https://github.com/snwarner22/osre-catalyst/blob/main/CC-BY-SA3.0.md)*
 
-#### *All files including sections of code will be licenced under the Academic Free Licence ["AFL" 3.0](https://github.com/snwarner22/osre-catalyst/blob/main/AFL.md)*
+#### *Unless stated otherwise, All original OSRE Catalyst files including sections of code will be licenced under the Academic Free Licence ["AFL" 3.0](https://github.com/snwarner22/osre-catalyst/blob/main/AFL.md)*
