@@ -57,6 +57,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 * Deliberate intimidation, harassment of any kind, stalking or following. 
 * Advocating for, or encouraging, any of the above behavior.
 * Sustained disruption of community events, including talks and presentations.
+* Disruption of conversation in the form of interrupting others that are currently speaking.
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
   
