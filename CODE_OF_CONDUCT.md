@@ -90,18 +90,17 @@ In your report please include:
 * Any other information you believe we should have.
 
 If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We would much rather have a few extra reports where we decide to take no action, rather than miss a report of an actual violation. We do not look negatively on you if we find the incident is not a violation. And knowing about incidents that are not violations, or happen outside our spaces, can also help us to improve the Code of Conduct or the processes surrounding it.
-  
 
+Please keep in mind that this reporting process is meant to be constructive. Therefore, we would like to dissuade abusing the reporting procedures with malicious intent.
+  
 ## Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify GOVERNING_BODY with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. Deliberate misuse of reporting procedures and/or submitting
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should report it to community organizers or any other parties listed under the Reporting Guidelines section above, with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
 
-Please keep in mind that this reporting process is meant to be constructive. Consequently, we would like to dissuade abusing the reporting procedures with malicious intent.
+Additionally, we would like to encourage a cooperative environment so we ask that you settle any prior personal disputes with community members before joining the group. As for personal disputes that occur during the in-person portion of the program, please contact the community organizers. We strive to have a friendly community, and as such, our community organizers are more than willing to help participants reach a common ground.
 
 <!--- Enforcement - take a break --->
-<!--- Personal disputes / leave personal disagreements, settle privately / negotiate disagreement  --->
-<!--- Define personal disputes and other personal disagreements --->
--> This includes disputes unrelated to work or that did not occur in a Catalyst Managed Space
+This includes disputes unrelated to work or that did not occur in a Catalyst Managed Space
 
 ## Attribution
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0/).
