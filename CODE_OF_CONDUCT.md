@@ -100,7 +100,7 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 Additionally, we would like to encourage a cooperative environment so we ask that you settle any prior personal disputes with community members before joining the group. As for personal disputes that occur during the in-person portion of the program, please contact the community organizers. We strive to have a friendly community, and as such, our community organizers are more than willing to help participants reach a common ground.
 
 <!--- Enforcement - take a break --->
-This includes disputes unrelated to work or that did not occur in a Catalyst Managed Space
+<!--- ADD the following to the section: This includes disputes unrelated to work or that did not occur in a Catalyst Managed Space --->
 
 ## Attribution
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0/).
