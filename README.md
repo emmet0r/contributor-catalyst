@@ -38,7 +38,9 @@
 </br>
 
 ## 😎 Emoji Shortcuts
-Many open source communities love emoji! Here's how to quickly access the emoji keyboards/palettes on various operating systems:
+Many open source communities love emoji! 
+
+Here's how to quickly access the emoji keyboards/palettes on various operating systems:
 - In macOS, hold down <code>Cntrl + Cmd + Space Bar</code>. Click and hold on an emoji to select a skintone.
 - In Windows, hold down <code>Windows key + .</code>
 
