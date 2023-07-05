@@ -26,6 +26,9 @@
 </br>
 
 ## 🏄 Things to Do in Santa Cruz
+There's a lot to explore right here in Santa Cruz! Good Times (a free local weekly paper) publishes a [weekly events calendar](https://www.goodtimes.sc/things-to-do-santa-cruz/).
+
+Here are some other popular summer activities:
 - [Thursday night concerts on the colonnade](https://beachboardwalk.com/live-music-on-the-colonnade/) (free, near the Boardwalk)
 - [Friday night movies on the beach](https://beachboardwalk.com/movies/) (free, near the Boardwalk)
 - Walk around downtown with ice cream from [Penny Ice Creamery](https://www.thepennyicecreamery.com) or [Mission Hill Creamery](https://www.missionhillcreamery.com)
