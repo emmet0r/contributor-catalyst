@@ -4,17 +4,38 @@
 ## 🧑‍💻 Meet the 2023 Cohort
 ### **[🐐Aaron🧩](https://github.com/thatguyseven/)**
 ### **[🥽Sekani🎨](https://github.com/snwarner22)**
-### **[💥Onexi🌴](https://github.com/OnexiMedina)**
+### **[💥Onexi🌴](https://github.com/OnexiMedina)** 
 ### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+
+</br>
 
 ## 🚍 Getting Around 
 [Map](https://www.openstreetmap.org/#map=15/36.9895/-122.0574) of campus and town, including bike paths, foot paths, roads, and more (via [OpenStreetMap](https://github.com/openstreetmap/))
-### Bus - [Santa Cruz Metro System](https://scmtd.com/en/routes/schedule/map)
-### Bike - [BCycle Resgistration Information](https://taps.ucsc.edu/bike-programs/bike-share.html)
+### Bus 
+- [Campus shuttle summer schedule](https://taps.ucsc.edu/pdf/campus-transit-schedule-8.5x11-summer-2023.pdf)
+- [Santa Cruz Metro System](https://scmtd.com/en/routes/schedule/map)
+### Bike 
+- [BCycle Registration Information](https://taps.ucsc.edu/bike-programs/bike-share.html)
+
+</br>
 
 ## 📚 Campus Resources
+- [Summer Recreation (campus gym) hours](https://recreation.ucsc.edu/facilities/index.html)
+- [Summer dining hours](https://dining.ucsc.edu/summer/) _(Note: Nine/Lewis and Porter dining halls are also open around mealtimes)_
 
-## 🏄 Things to Check Out
+</br>
+
+## 🏄 Things to Do in Santa Cruz
+- [Thursday night concerts on the colonnade](https://beachboardwalk.com/live-music-on-the-colonnade/) (free, near the Boardwalk)
+- [Friday night movies on the beach](https://beachboardwalk.com/movies/) (free, near the Boardwalk)
+- Walk around downtown with ice cream from [Penny Ice Creamery](https://www.thepennyicecreamery.com) or [Mission Hill Creamery](https://www.missionhillcreamery.com)
+- Wander one of the local [Farmers' Markets](https://santacruzfarmersmarket.org) (Westside or Downtown locations)
+- Learn to surf at Cowell's Beach
+- Go for a hike on [Upper Campus](https://maps.ucsc.edu/printable-maps/UCSC_upper_campus_map.pdf), connecting to either [Wilder Ranch State Park](https://www.parks.ca.gov/pages/549/files/WilderRanchSPWebLayout2017.pdf) or [Pogonip](https://www.cityofsantacruz.com/home/showpublisheddocument/42506/635600233927270000) (_at Pogonip, try to find the koi pond or the historic lime kilns!_)
+- Visit the [Santa Cruz Beach Boardwalk](https://beachboardwalk.com) for rides, games, laser tag, mini golf, and amusement park food
+- Explore UCSC's own [Arboretum gardens](https://arboretum.ucsc.edu/visit/admission-and-hours/index.html)
+
+</br>
 
 ## 💻 Technical Resources
 1. *[Basics of Open Source Licenses Article](https://medium.com/nationwide-technology/a-short-guide-to-open-source-licenses-cf5b1c329edd)*
