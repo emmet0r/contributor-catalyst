@@ -42,6 +42,8 @@ Many open source communities love emoji! Here's how to quickly access the emoji 
 - In macOS, hold down <code>Cntrl + Cmd + Space Bar</code>. Click and hold on an emoji to select a skintone.
 - In Windows, hold down <code>Windows key + .</code>
 
+</br>
+
 ## 💻 Technical Resources
 1. *[Basics of Open Source Licenses Article](https://medium.com/nationwide-technology/a-short-guide-to-open-source-licenses-cf5b1c329edd)*
 2. *[Summarized Software Licenses](https://tldrlegal.com/)*
