@@ -22,6 +22,7 @@
 ## 📚 Campus Resources
 - [Summer Recreation (campus gym) hours](https://recreation.ucsc.edu/facilities/index.html)
 - [Summer dining hours](https://dining.ucsc.edu/summer/) _(Note: Nine/Lewis and Porter dining halls are also open around mealtimes)_
+- [Laundry App](https://mycscgo.com/laundry) _(Note: Sign up for $5 Laundry Credit. Scroll down if there's no pop-up)_
 
 </br>
 
