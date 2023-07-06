@@ -1,0 +1,89 @@
+/* 
+
+	Hi!  Welcome to style.css.  CSS stands for cascading style sheet - we recommend http://www.w3schools.com/css/ for the nitty gritty of CSS syntax.  But basically, what you should know is:
+
+	 - Which part of a web page the css is referring to is specified by either ids or classes in the .html file.  For instance, a div with id="signup" will be styled by the element #signup below.  # means ID, and . means class in .css files.
+
+	 - Elements inside of other elements inherit their style, unless the .css file specifies otherwise.  For instance, if you have the html: <div id="outside">Hello <div id="inside">world!</div></div>, and 'Hello' is specified in css (#outside) as being in bold font, 'world!' will also be bold unless you add a #inside element to your css.
+
+ 	-  Fun style elements to play with that won't mess with the structure of the page include color, font, and background.  When playing with colors, you can consult http://hexcolor.com/.  Colors can be specified by name ("black", "white") or hexadecimal notation (#000000, #FFFFFF).
+
+*/
+
+/* Imports the font that is used on this page. */
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700);
+
+
+/* This section sets the defaults for the page, but you may never see changes here if they are overwritten by the div elements below.  */
+html, body {
+	margin: 0;  /* Margin is the amount of space between the border of an element, and the elements outside it. */
+	padding: 0; /* Padding is the amount of space between the border of an element, and the elements inside it. */
+}
+
+body{
+	font: 130%/1.3 TrebuchetMS,Arial,sans-serif;  /* Default fonts */
+	text-align: left; /* Alignment of the text */
+	color: black; /* Main text color */
+	background: white; /* Main text background color */
+	padding-bottom: 20px; /* You can set padding or margin for one side of an element at a time */
+}
+
+a {                  /* A stands for link, so this section is setting the default characteristics of links. */
+	color: #0000cc;
+	text-decoration: none;
+}
+
+h1 {		     /* This styles the header at the top of the page */
+	font: bold 2.1em 'Source Sans Pro',Arial, Sans-Serif;
+	text-align: left;
+	color: white;
+}
+
+h2 {		     /* This styles the headers within the page */
+	font: bold 1.1em 'Source Sans Pro',Arial, Sans-Serif;
+	padding: 0;
+	margin: 0;
+}
+
+
+/* This section alters the appearance of all divs with the class "section", which is all of the divs in our html file.  We can use it to specify style elements that we want to be the same accross divs. */
+div.section {
+	padding: 1em;
+	margin-bottom: 0;
+	text-align: justify;
+
+}
+
+/* If we want the divs with ids plan and more to look the same, we can put them together */
+#plan, #more {
+	background: #FF9900;
+	color: black;
+	font: 'Source Sans Pro',Arial, Sans-Serif;
+	background-image: none;  /* replace none with url('image-url') to set a background image  */
+}
+
+/* You can alter the links within a div with the following syntax */
+#plan a {
+	color: #0000cc;
+}
+
+/* This alters the appearance of the div with id="signup". */
+#poem {
+	height: 110px;
+	background: white;
+	text-align: center;
+}
+
+/* This alters the appearance of the div with id="whoweare" */
+#whoweare {
+	background: white;
+	color: black; 
+}
+
+/* This alters the appearance of the div with id="minileft", the div containing the images */
+.minileft {
+	float: left;
+	height: 100%;
+	margin-bottom:1.5em;
+	margin-right: 1em;
+}
