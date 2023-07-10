@@ -11,6 +11,8 @@
 
 ## 🚍 Getting Around 
 [Map](https://www.openstreetmap.org/#map=15/36.9895/-122.0574) of campus and town, including bike paths, foot paths, roads, and more (via [OpenStreetMap](https://github.com/openstreetmap/))
+### Mobile App
+- [Transit app](https://transitapp.com) to help use the metro. Enter a location and choose from a list of routes.
 ### Bus 
 - [Campus shuttle summer schedule](https://taps.ucsc.edu/pdf/campus-transit-schedule-8.5x11-summer-2023.pdf)
 - [Santa Cruz Metro System](https://scmtd.com/en/routes/schedule/map)
