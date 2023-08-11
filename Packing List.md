@@ -15,5 +15,5 @@
 - [ ] Pillow slips
 - [ ] Phone charger(s)
 - [ ] Luggage scale
-- [ ] Camera! _(Batteries, charger, and lenses)_
+- [ ] Camera! _(Batteries, charger, and lenses. Be carefull taking film through X-Rays)_
 - [ ] Surge protector
