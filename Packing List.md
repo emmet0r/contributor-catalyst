@@ -18,4 +18,3 @@
 - [ ] Pillow slips
 - [ ] Phone charger(s)
 - [ ] Luggage scale
->>>>>>> 3c1da6d492fcccd4e18a3f0d8d64172c89b9d920
