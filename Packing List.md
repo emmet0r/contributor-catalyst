@@ -14,7 +14,8 @@
 - [ ] Layers! _(typical summer weather is 60s-70s during the day, but temps drop into the 50s at night - and can get up to 100°F during a heat wave)_
 - [ ] Some kind of entertainment for a long flight (a book, a portable game console, etc.)
 - [ ] Surge protector
-- [ ] Camera! _(Batteries, charger, and lenses. Be carefull taking film through X-Rays)_
+- [ ] Camera! _(Batteries, charger, and lenses. Be careful taking film through X-Rays)_
 - [ ] Pillow slips
 - [ ] Phone charger(s)
 - [ ] Luggage scale
+- [ ] Fitted sheet for bed (optional, but campus only provides thin flat sheets)
