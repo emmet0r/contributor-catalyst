@@ -15,11 +15,11 @@ Diversity is one of our huge strengths, but
 it can also lead to communication issues and unhappiness. To that end, we have a few 
 ground rules that we ask people to adhere to.
 
-This code of conduct applies to all spaces managed by the Django project or Django 
+<!--- This code of conduct applies to all spaces managed by the Django project or Django 
 Software Foundation. This includes IRC, the mailing lists, the issue tracker, DSF events, 
 and any other forums created by the project team which the community uses for communication. 
 In addition, violations of this code outside these spaces may affect a person's ability to 
-participate within them.
+participate within them. --->
 
 ## Scope
 
