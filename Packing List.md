@@ -19,3 +19,4 @@
 - [ ] Phone charger(s)
 - [ ] Luggage scale
 - [ ] Fitted sheet for bed (optional, but campus only provides thin flat sheets)
+- [ ] Bicycle helmet if you plan to take advantage of Santa Cruz's bikeshare program
