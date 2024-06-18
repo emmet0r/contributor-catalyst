@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 Meet the 2024 Cohort
 
-### **[⭐️Kemon💻]((https://github.com/klbynum))**
+### **[⭐️Kemon💻](https://github.com/klbynum)**
 
 ## Past Cohort Members
 ### **[🐐Aaron🧩](https://github.com/thatguyseven/)**
