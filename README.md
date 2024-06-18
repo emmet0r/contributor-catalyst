@@ -2,7 +2,7 @@
 *Part of UC Santa Cruz's Open Source Research Experience Program*
 
 ## 🧑‍💻 Meet the 2024 Cohort
-
+### **[Jordin](https://github.com/Jordin221)**
 
 ## Past Cohort Members
 ### **[🐐Aaron🧩](https://github.com/thatguyseven/)**
