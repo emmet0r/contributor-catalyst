@@ -1,7 +1,10 @@
-# Welcome to OSRE Catalyst!
+# Welcome to Contributor Catalyst!
 *Part of UC Santa Cruz's Open Source Research Experience Program*
 
-## 🧑‍💻 Meet the 2023 Cohort
+## 🧑‍💻 Meet the 2024 Cohort
+
+
+## Past Cohort Members
 ### **[🐐Aaron🧩](https://github.com/thatguyseven/)**
 ### **[🥽Sekani🎨](https://github.com/snwarner22)**
 ### **[💥Onexi🌴](https://github.com/OnexiMedina)** 
