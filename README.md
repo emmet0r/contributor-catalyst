@@ -5,6 +5,7 @@
 ### **[⭐️Kemon💻](https://github.com/klbynum)**
 ### **[🐐Elijah](https://github.com/Wavyeli32/)**
 ### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+</br>
 
 ## Past Cohorts
 ###### 2023: 
