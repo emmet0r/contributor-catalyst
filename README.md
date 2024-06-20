@@ -2,6 +2,7 @@
 *Part of UC Santa Cruz's Open Source Research Experience Program*
 
 ## 🧑‍💻 Meet the 2024 Cohort
+### **[🐐Elijah](https://github.com/Wavyeli32/)**
 ### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 
 ## Past Cohorts
