@@ -3,14 +3,12 @@
 
 ## 🧑‍💻 Meet the 2024 Cohort
 ### **[🐐Elijah](https://github.com/Wavyeli32/)**
-
-
-## Past Cohort Members
-### **[🐐Aaron🧩](https://github.com/thatguyseven/)**
-### **[🥽Sekani🎨](https://github.com/snwarner22)**
-### **[💥Onexi🌴](https://github.com/OnexiMedina)** 
 ### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 
+## Past Cohorts
+###### 2023: 
+#### **[🐐Aaron🧩](https://github.com/thatguyseven/)** **[🥽Sekani🎨](https://github.com/snwarner22)**
+#### **[💥Onexi🌴](https://github.com/OnexiMedina)**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 </br>
 
 ## 🚍 Getting Around 
