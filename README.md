@@ -6,6 +6,8 @@
 ### **[⭐️Kemon💻](https://github.com/klbynum)**
 ### **[🐐Elijah](https://github.com/Wavyeli32/)**
 ### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+#### **[Cohort Expectations for 2024](https://github.com/emmet0r/contributor-catalyst/blob/main/2024-expectations.md)**
+
 </br>
 
 ## Past Cohorts
