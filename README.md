@@ -1,5 +1,5 @@
 # Welcome to Contributor Catalyst!
-*Part of UC Santa Cruz's Open Source Research Experience Program*
+*A summer mentorship program hosted by the UC Santa Cruz Open Source Program Office*
 
 ## 🧑‍💻 Meet the 2024 Cohort
 ### **[⭐️Kemon💻](https://github.com/klbynum)**
