@@ -18,7 +18,7 @@
 - [ ] Camera! _(Batteries, charger, sd cards, and lenses. Be careful taking film through X-Rays)_
 - [ ] Pillow slips
 - [ ] Luggage scale
-- [ ] Fitted sheet for bed (optional, but campus only provides thin flat sheets)
+- [ ] Fitted sheet for bed, Twin XL size (optional, but campus only provides thin flat sheets)
 - [ ] Bicycle helmet if you plan to take advantage of Santa Cruz's bikeshare program
 - [ ] Clothing Hamper/Basket
 - [ ] Laundry essentials (tide pods are a good for travelling)
