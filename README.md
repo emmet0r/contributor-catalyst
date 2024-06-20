@@ -2,15 +2,14 @@
 *Part of UC Santa Cruz's Open Source Research Experience Program*
 
 ## 🧑‍💻 Meet the 2024 Cohort
-
 ### **[⭐️Kemon💻](https://github.com/klbynum)**
-
-## Past Cohort Members
-### **[🐐Aaron🧩](https://github.com/thatguyseven/)**
-### **[🥽Sekani🎨](https://github.com/snwarner22)**
-### **[💥Onexi🌴](https://github.com/OnexiMedina)** 
+### **[🐐Elijah](https://github.com/Wavyeli32/)**
 ### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 
+## Past Cohorts
+###### 2023: 
+#### **[🐐Aaron🧩](https://github.com/thatguyseven/)** **[🥽Sekani🎨](https://github.com/snwarner22)**
+#### **[💥Onexi🌴](https://github.com/OnexiMedina)**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 </br>
 
 ## 🚍 Getting Around 
