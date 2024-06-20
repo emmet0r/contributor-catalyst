@@ -1,15 +1,17 @@
 # Welcome to Contributor Catalyst!
-*Part of UC Santa Cruz's Open Source Research Experience Program*
+*A summer mentorship program hosted by the UC Santa Cruz Open Source Program Office*
 
 ## 🧑‍💻 Meet the 2024 Cohort
 ### **[🎮Jordin🐵](https://github.com/Jordin221)**
-
-## Past Cohort Members
-### **[🐐Aaron🧩](https://github.com/thatguyseven/)**
-### **[🥽Sekani🎨](https://github.com/snwarner22)**
-### **[💥Onexi🌴](https://github.com/OnexiMedina)** 
+### **[⭐️Kemon💻](https://github.com/klbynum)**
+### **[🐐Elijah](https://github.com/Wavyeli32/)**
 ### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+</br>
 
+## Past Cohorts
+###### 2023: 
+#### **[🐐Aaron🧩](https://github.com/thatguyseven/)** **[🥽Sekani🎨](https://github.com/snwarner22)**
+#### **[💥Onexi🌴](https://github.com/OnexiMedina)**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 </br>
 
 ## 🚍 Getting Around 
