@@ -49,4 +49,4 @@
 
 
 ###### Authors
-*Jordin, Elijah, **[Kemon](https://github.com/klbynum)**, Jeremiah, Silas, and Emily*
+*[Jordin](https://github.com/Jordin221), Elijah, [Kemon](https://github.com/klbynum), Jeremiah, [Silas](http://github.com/SilasVM), and [Emily](http://github.com/emmet0r)*
