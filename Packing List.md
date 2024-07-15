@@ -7,7 +7,7 @@
 - [ ] Any medications
 - [ ] Headphones or earplugs if you’re a light sleeper or don’t work well with sound around you
 - [ ] Swimsuit, sandals, sunscreen, beach towel for the beach
-- [ ] Comfortable shoes for walking and/or hiking
+- [ ]  Comfortable shoes for walking and/or hiking!!!
 - [ ] Sunglasses or a hat
 - [ ] Toiletries (BYO shampoo, soap, toothpaste, hair/skin products, etc.)
 - [ ] Items from home that will help your space feel like your own (blanket, slippers, photos, etc.)
@@ -23,3 +23,4 @@
 - [ ] Clothing Hamper/Basket
 - [ ] Laundry essentials (tide pods are a good for travelling)
 - [ ] Disenfectant wipes/spray
+- # Bring hiking shoes (tennis shoes) that you feel comfortable in. You really need it!!!
