@@ -23,4 +23,4 @@
 - [ ] Clothing Hamper/Basket
 - [ ] Laundry essentials (tide pods are a good for travelling)
 - [ ] Disenfectant wipes/spray
-- [ ] **Bring hiking shoes (tennis shoes) that you feel comfortable in. You really need it for hiking especially!!!**
+
