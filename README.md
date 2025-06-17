@@ -2,13 +2,12 @@
 *A summer mentorship program hosted by the UC Santa Cruz Open Source Program Office*
 
 ## Meet the 2025 Cohort
-### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
-### **[Devon](https://github.com/devon3583)**
-### **🍀[Nia](https://github.com/npNSU) 🔰**
-### **[🎀༘Kailea💋](https://github.com/kailealee)**
-
-
 ### **[🧸Kayla🌸](https://github.com/kaybcodes)**
+### **[🎀༘Kailea💋](https://github.com/kailealee)**
+### **🍀[Nia](https://github.com/npNSU) 🔰**
+### **[Devon](https://github.com/devon3583)**
+### **⭐️[Kaylee](https://github.com/purpleskates123)🎨**
+### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 
 ## 🧑‍💻 Meet the 2024 Cohort
 ### **[🎮Jordin🐵](https://github.com/Jordin221)**
