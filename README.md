@@ -6,7 +6,8 @@
 
 
 
-### **[🎀༘Kailea💋](hhttps://github.com/kailealee)**
+### **[🎀༘Kailea💋](https://github.com/kailealee)**
+
 ## 🧑‍💻 Meet the 2024 Cohort
 ### **[🎮Jordin🐵](https://github.com/Jordin221)**
 ### **[⭐️Kemon💻](https://github.com/klbynum)**
