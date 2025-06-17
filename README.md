@@ -3,7 +3,7 @@
 
 ## Meet the 2025 Cohort
 ### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
-### ** ⭐️[Kaylee](https://github.com/purpleskates123)🎨**
+### **⭐️[Kaylee](https://github.com/purpleskates123)🎨**
 
 ## 🧑‍💻 Meet the 2024 Cohort
 ### **[🎮Jordin🐵](https://github.com/Jordin221)**
