@@ -1,7 +1,14 @@
 # Welcome to Contributor Catalyst!
 *A summer mentorship program hosted by the UC Santa Cruz Open Source Program Office*
 
-## 🧑‍💻 Meet the 2025 Cohort
+
+## Meet the 2025 Cohort
+### **[🧸Kayla🌸](https://github.com/kaybcodes)**
+### **[🎀༘Kailea💋](https://github.com/kailealee)**
+### **🍀[Nia](https://github.com/npNSU) 🔰**
+### **[Devon](https://github.com/devon3583)**
+### **⭐️[Kaylee](https://github.com/purpleskates123)🎨**
+### **[😎Denzel👌](https://github.com/dcaine125)**
 ### **🎸[Silas](https://github.com/SilasVM) 📸**
 
 </br>
