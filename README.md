@@ -4,6 +4,8 @@
 ## Meet the 2025 Cohort
 ### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 ### **[Devon](https://github.com/devon3583)**
+### **🍀[Nia](https://github.com/npNSU) 🔰**
+### **[🎀༘Kailea💋](https://github.com/kailealee)**
 
 ## 🧑‍💻 Meet the 2024 Cohort
 ### **[🎮Jordin🐵](https://github.com/Jordin221)**
