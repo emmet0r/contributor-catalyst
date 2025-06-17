@@ -7,6 +7,9 @@
 ### **🍀[Nia](https://github.com/npNSU) 🔰**
 ### **[🎀༘Kailea💋](https://github.com/kailealee)**
 
+
+### **[🧸Kayla🌸](https://github.com/kaybcodes)**
+
 ## 🧑‍💻 Meet the 2024 Cohort
 ### **[🎮Jordin🐵](https://github.com/Jordin221)**
 ### **[⭐️Kemon💻](https://github.com/klbynum)**
