@@ -1,20 +1,16 @@
 # Welcome to Contributor Catalyst!
 *A summer mentorship program hosted by the UC Santa Cruz Open Source Program Office*
 
-## Meet the 2025 Cohort
-### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
-
-## 🧑‍💻 Meet the 2024 Cohort
-### **[🎮Jordin🐵](https://github.com/Jordin221)**
-### **[⭐️Kemon💻](https://github.com/klbynum)**
-### **[🐐Elijah](https://github.com/Wavyeli32/)**
-### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
-### **[🎺Jeremiah](https://github.com/JeremiahAHoward)**
-#### **[Cohort Expectations for 2024](https://github.com/emmet0r/contributor-catalyst/blob/main/2024-expectations.md)**
+## 🧑‍💻 Meet the 2025 Cohort
+### **🎸[Silas](https://github.com/SilasVM) 📸**
 
 </br>
 
 ## Past Cohorts
+###### 2024:
+#### **[🎮Jordin🐵](https://github.com/Jordin221)** **[⭐️Kemon💻](https://github.com/klbynum)**
+#### **[🐐Elijah](https://github.com/Wavyeli32/)** **[🎺Jeremiah](https://github.com/JeremiahAHoward)** **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+#### **[Cohort Expectations for 2024](https://github.com/emmet0r/contributor-catalyst/blob/main/2024-expectations.md)**
 ###### 2023: 
 #### **[🐐Aaron🧩](https://github.com/thatguyseven/)** **[🥽Sekani🎨](https://github.com/snwarner22)**
 #### **[💥Onexi🌴](https://github.com/OnexiMedina)**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
