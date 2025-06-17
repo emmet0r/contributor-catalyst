@@ -8,6 +8,7 @@
 ### **[Devon](https://github.com/devon3583)**
 ### **⭐️[Kaylee](https://github.com/purpleskates123)🎨**
 ### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+### **[😎Denzel👌](https://github.com/dcaine125)**
 
 ## 🧑‍💻 Meet the 2024 Cohort
 ### **[🎮Jordin🐵](https://github.com/Jordin221)**
