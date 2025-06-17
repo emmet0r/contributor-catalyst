@@ -1,6 +1,9 @@
 # Welcome to Contributor Catalyst!
 *A summer mentorship program hosted by the UC Santa Cruz Open Source Program Office*
 
+## Meet the 2025 Cohort
+
+
 ## 🧑‍💻 Meet the 2024 Cohort
 ### **[🎮Jordin🐵](https://github.com/Jordin221)**
 ### **[⭐️Kemon💻](https://github.com/klbynum)**
