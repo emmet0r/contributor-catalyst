@@ -15,6 +15,7 @@
 ###### 2023: 
 #### **[🐐Aaron🧩](https://github.com/thatguyseven/)** **[🥽Sekani🎨](https://github.com/snwarner22)**
 #### **[💥Onexi🌴](https://github.com/OnexiMedina)**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+
 </br>
 
 ## 🚍 Getting Around 
