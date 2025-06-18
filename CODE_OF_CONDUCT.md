@@ -11,8 +11,7 @@ We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community. The goal of our program is to foster 
 supportive mentorship, personal development, and lasting connection between peers. 
 
-Diversity is one of our huge strengths, but 
-it can also lead to communication issues and unhappiness. To that end, we have a few 
+Diversity and Inclusion are amoung our greatest strengths, though they can sometimes present challenges in communication and overall team cohesion. To that end, we have a few 
 ground rules that we ask people to adhere to.
 
 <!--- This code of conduct applies to all spaces managed by the Django project or Django 
