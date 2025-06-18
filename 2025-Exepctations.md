@@ -57,7 +57,7 @@
 ###### Authors
 Kayla  
 Kailea  
-Nia  
+[Nia](https://github.com/npNSU)
 Devon  
 Amante'  
 Jakiya  
