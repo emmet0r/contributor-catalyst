@@ -12,6 +12,7 @@
 ### **⭐️[Kaylee](https://github.com/purpleskates123)🎨**
 ### **[😎Denzel👌](https://github.com/dcaine125)**
 ### **🎸[Silas](https://github.com/SilasVM) 📸**
+#### [2025 Cohort Expectations](https://github.com/emmet0r/contributor-catalyst/blob/main/2025-Exepctations.md)
 
 </br>
 
