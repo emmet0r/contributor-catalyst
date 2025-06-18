@@ -3,12 +3,14 @@
 
 
 ## Meet the 2025 Cohort
+
 ### **[🧸Kayla🌸](https://github.com/kaybcodes)**
 ### **[🎀༘Kailea💋](https://github.com/kailealee)**
 ### **🍀[Nia](https://github.com/npNSU) 🔰**
 ### **📸[Devon](https://github.com/devon3583)🐆**
 ### **⭐️[Kaylee](https://github.com/purpleskates123)🎨**
 ### **[😎Denzel👌](https://github.com/dcaine125)**
+### **[🪞Jakiya🪞](https://github.com/jakbrownbytes)**  
 ### **🎸[Silas](https://github.com/SilasVM) 📸**
 
 </br>
