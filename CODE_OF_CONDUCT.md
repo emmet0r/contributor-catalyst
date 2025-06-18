@@ -107,3 +107,33 @@ Additionally, we would like to encourage a cooperative environment so we ask tha
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0/).
 
 Portions of this code of conduct are derived from the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/), [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md), [Django](https://www.djangoproject.com/conduct/).
+
+</br>
+In addition, this Code of Conduct was reviewed and edited by the author and the current and past cohorts of the Contributor Catalyst summer mentorship program
+
+### Author
+**[Dr. Emily Lovell](https://github.com/emmet0r/contributor-catalyst)**
+
+</br>
+
+### 2025 Cohort [Current]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🧸[Kayla](https://github.com/kaybcodes) 🌸**   **🎀༘[Kailea](https://github.com/kailealee) 💋**   **🍀[Nia](https://github.com/npNSU) 🔰**   **📸[Devon](https://github.com/devon3583)🐆**  
+
+**⭐️[Kaylee](https://github.com/purpleskates123)🎨**   **😎[Denzel](https://github.com/dcaine125) 👌**   **🎸[Silas](https://github.com/SilasVM) 📸**   **🪞[Jakiya](https://github.com/jakbrownbytes) 🪞**   **🐜[Amante'](https://github.com/awood0727) 🛳️**   
+
+</br>
+
+### 2024 Cohort
+
+&nbsp;&nbsp; **🎮[Jordin](https://github.com/Jordin221) 🐵**   **⭐️[Kemon](https://github.com/klbynum) 💻**
+
+**🐐[Elijah](https://github.com/Wavyeli32/)**   **🎺[Jeremiah](https://github.com/JeremiahAHoward)**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+
+</br>
+
+### 2023 Cohort 
+
+**🐐[Aaron](https://github.com/thatguyseven/) 🧩**   **🥽[Sekani](https://github.com/snwarner22) 🎨**
+
+**💥[Onexi](https://github.com/OnexiMedina) 🌴**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
