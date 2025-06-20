@@ -56,7 +56,7 @@
 
 ###### Authors
 Kayla  
-Kailea  
+[Kailea](https://github.com/kailealee)
 Nia  
 Devon  
 Amante'  
