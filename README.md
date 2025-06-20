@@ -3,7 +3,7 @@
 
 ## Meet the 2025 Cohort
 ### **🕴🏾[Silas](https://github.com/SilasVM) 📸**
-
+### **🧸[Kayla](https://github.com/kaybcodes) 🌸**
 ## 🧑‍💻 Meet the 2024 Cohort
 ### **[🎮Jordin🐵](https://github.com/Jordin221)**
 ### **[⭐️Kemon💻](https://github.com/klbynum)**
