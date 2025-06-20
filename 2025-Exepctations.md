@@ -59,7 +59,7 @@ Kayla
 Kailea  
 Nia  
 Devon  
-Amante'  
+[Amante'](https://github.com/awood0727)  
 Jakiya  
 Kaylee  
 Denzel  
