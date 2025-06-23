@@ -59,7 +59,7 @@ Kayla
 Kailea  
 [Nia](https://github.com/npNSU)
 Devon  
-Amante'  
+[Amante'](https://github.com/awood0727)  
 [Jakiya](https://github.com/jakbrownbytes)  
 Kaylee  
 Denzel  
