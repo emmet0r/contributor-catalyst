@@ -57,10 +57,10 @@
 ###### Authors
 Kayla  
 [Kailea](https://github.com/kailealee)
-Nia  
+[Nia](https://github.com/npNSU)
 Devon  
-Amante'  
-Jakiya  
+[Amante'](https://github.com/awood0727)  
+[Jakiya](https://github.com/jakbrownbytes)  
 Kaylee  
 Denzel  
 [Silas](https://github.com/SilasVM)  
