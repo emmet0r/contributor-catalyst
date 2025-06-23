@@ -56,7 +56,7 @@
 
 ###### Authors
 Kayla  
-Kailea  
+[Kailea](https://github.com/kailealee)
 [Nia](https://github.com/npNSU)
 Devon  
 [Amante'](https://github.com/awood0727)  
