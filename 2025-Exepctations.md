@@ -60,7 +60,7 @@ Kailea
 [Nia](https://github.com/npNSU)
 Devon  
 Amante'  
-Jakiya  
+[Jakiya](https://github.com/jakbrownbytes)  
 Kaylee  
 Denzel  
 [Silas](https://github.com/SilasVM)  
