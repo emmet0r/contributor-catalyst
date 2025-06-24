@@ -62,7 +62,7 @@ Devon
 [Amante'](https://github.com/awood0727)  
 [Jakiya](https://github.com/jakbrownbytes)  
 Kaylee  
-Denzel  
+[Denzel](https://github.com/dcaine125)  
 [Silas](https://github.com/SilasVM)  
 [Emily](https://github.com/emmet0r)  
 [Samir](https://github.com/smrghsh)  
