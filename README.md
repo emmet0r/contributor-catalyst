@@ -53,6 +53,7 @@ There's a lot to explore right here in Santa Cruz! Good Times (a free local week
 
 Here are some other popular summer activities:
 - [Thursday night concerts on the colonnade](https://beachboardwalk.com/live-music-on-the-colonnade/) (free, near the Boardwalk)
+- Community concerts and shows almost every night at [Abbott Square](https://www.abbottsquaremarket.com/events) in Downtown (free)
 - [Friday night movies on the beach](https://beachboardwalk.com/movies/) (free, near the Boardwalk)
 - Walk around downtown with ice cream from [Penny Ice Creamery](https://www.thepennyicecreamery.com) or [Mission Hill Creamery](https://www.missionhillcreamery.com)
 - Wander one of the local [Farmers' Markets](https://santacruzfarmersmarket.org) (Westside or Downtown locations)
@@ -60,6 +61,11 @@ Here are some other popular summer activities:
 - Go for a hike on [Upper Campus](https://maps.ucsc.edu/printable-maps/UCSC_upper_campus_map.pdf), connecting to either [Wilder Ranch State Park](https://www.parks.ca.gov/pages/549/files/WilderRanchSPWebLayout2017.pdf) or [Pogonip](https://www.cityofsantacruz.com/home/showpublisheddocument/42506/635600233927270000) (_at Pogonip, try to find the koi pond or the historic lime kilns!_)
 - Visit the [Santa Cruz Beach Boardwalk](https://beachboardwalk.com) for rides, games, laser tag, mini golf, and amusement park food
 - Explore UCSC's own [Arboretum gardens](https://arboretum.ucsc.edu/visit/admission-and-hours/index.html)
+- Learn to dance Bachata, a Latin American social dance! Beginner class on the Westside every Tuesday at 7pm at Swift St Fitness: 509 Swift St., Unit H, (donation based)
+- Learn Capoeira, an Afro-Brazilian martial art,  Mondays - Thursdays at 6pm at Raizes Do Brasil: 207 McPherson St. (first class free, and ask for a student discount for future classes)
+- Watch (or participate in) Salsa dancing on Tuesdays 7pm - 10pm at Abbott Square (free, in Downtown)
+- Visit the iconic Natural Bridges State Beach. If you go during low tide, try going north up the coast to see tide pools with crabs, urchins, and starfish
+- Try rock climbing at the local climbing gym, Pacific Edge. [Website for hours and rates](https://pacificedgeclimbinggym.com/)
 
 </br>
 
