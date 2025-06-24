@@ -55,7 +55,7 @@
 - Be attentive and responsive to what new things that are being taught.
 
 ###### Authors
-Kayla  
+[Kayla](https://github.com/kaybcodes) 
 [Kailea](https://github.com/kailealee)  
 [Nia](https://github.com/npNSU)  
 Devon  
