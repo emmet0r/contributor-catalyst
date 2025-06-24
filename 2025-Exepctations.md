@@ -61,7 +61,7 @@
 [Devon](https://github.com/devon3583)  
 [Amante'](https://github.com/awood0727)  
 [Jakiya](https://github.com/jakbrownbytes)  
-Kaylee  
+[Kaylee](https://github.com/purpleskates123)
 [Denzel](https://github.com/dcaine125)  
 [Silas](https://github.com/SilasVM)  
 [Emily](https://github.com/emmet0r)  
