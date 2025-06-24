@@ -55,13 +55,13 @@
 - Be attentive and responsive to what new things that are being taught.
 
 ###### Authors
-[Kayla](https://github.com/kaybcodes) 
+[Kayla](https://github.com/kaybcodes)  
 [Kailea](https://github.com/kailealee)  
 [Nia](https://github.com/npNSU)  
 [Devon](https://github.com/devon3583)  
 [Amante'](https://github.com/awood0727)  
 [Jakiya](https://github.com/jakbrownbytes)  
-[Kaylee](https://github.com/purpleskates123)
+[Kaylee](https://github.com/purpleskates123)  
 [Denzel](https://github.com/dcaine125)  
 [Silas](https://github.com/SilasVM)  
 [Emily](https://github.com/emmet0r)  
