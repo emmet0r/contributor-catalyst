@@ -84,6 +84,10 @@ Here's how to quickly access the emoji keyboards/palettes on various operating s
 2. *[Summarized Software Licenses](https://tldrlegal.com/)*
 
    ## Contributors
+To get yourself added here, head over to your closed pull request and leave the following comment:
+```plaintext
+@all-contributors please add @<username> for <contributions>
+```
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
