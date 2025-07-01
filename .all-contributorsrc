@@ -1,6 +1,6 @@
 {
   "projectName": "contributor-catalyst",
-  "projectOwner": "SilasVM",
+  "projectOwner": "emmet0r",
   "files": [
     "README.md"
   ],
@@ -15,6 +15,15 @@
       "profile": "https://github.com/SilasVM",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "emmet0r",
+      "name": "Emily Lovell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279967?v=4",
+      "profile": "http://users.soe.ucsc.edu/~emme/",
+      "contributions": [
+        "mentoring"
       ]
     }
   ]
