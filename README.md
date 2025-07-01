@@ -95,7 +95,7 @@ To get yourself added here, head over to your closed pull request and leave the 
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SilasVM"><img src="https://avatars.githubusercontent.com/u/124199231?v=4?s=100" width="100px;" alt="Silas Morgan"/><br /><sub><b>Silas Morgan</b></sub></a><br /><a href="#doc-SilasVM" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SilasVM"><img src="https://avatars.githubusercontent.com/u/124199231?v=4?s=100" width="100px;" alt="Silas Morgan"/><br /><sub><b>Silas Morgan</b></sub></a><br /><a href="#doc-SilasVM" title="Documentation">📖</a> <a href="#mentoring-SilasVM" title="Mentoring">🧑‍🏫</a></td>
     </tr>
   </tbody>
 </table>
