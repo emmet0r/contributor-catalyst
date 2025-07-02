@@ -96,7 +96,7 @@ To get yourself added here, head over to your closed pull request and leave the 
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SilasVM"><img src="https://avatars.githubusercontent.com/u/124199231?v=4?s=100" width="100px;" alt="Silas Morgan"/><br /><sub><b>Silas Morgan</b></sub></a><br /><a href="#doc-SilasVM" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://users.soe.ucsc.edu/~emme/"><img src="https://avatars.githubusercontent.com/u/279967?v=4?s=100" width="100px;" alt="Emily Lovell"/><br /><sub><b>Emily Lovell</b></sub></a><br /><a href="#mentoring-emmet0r" title="Mentoring">🧑‍🏫</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://users.soe.ucsc.edu/~emme/"><img src="https://avatars.githubusercontent.com/u/279967?v=4?s=100" width="100px;" alt="Emily Lovell"/><br /><sub><b>Emily Lovell</b></sub></a><br /><a href="#mentoring-emmet0r" title="Mentoring">🧑‍🏫</a> <a href="#maintenance-emmet0r" title="Maintenance">🚧</a> <a href="#ideas-emmet0r" title="Ideas, Planning, & Feedback">🤔</a> <a href="#talk-emmet0r" title="Talks">📢</a> <a href="#review-emmet0r" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
 </table>
