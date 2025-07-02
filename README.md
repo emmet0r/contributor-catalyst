@@ -114,6 +114,7 @@ To get yourself added here, head over to your closed pull request and leave the 
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dcaine125"><img src="https://avatars.githubusercontent.com/u/179405193?v=4?s=100" width="100px;" alt="Denzel Caine(He/Him)"/><br /><sub><b>Denzel Caine(He/Him)</b></sub></a><br /><a href="#doc-dcaine125" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/purpleskates123"><img src="https://avatars.githubusercontent.com/u/216603447?v=4?s=100" width="100px;" alt="Kaylee Williams"/><br /><sub><b>Kaylee Williams</b></sub></a><br /><a href="#doc-purpleskates123" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
