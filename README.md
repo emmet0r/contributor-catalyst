@@ -83,7 +83,7 @@ Here's how to quickly access the emoji keyboards/palettes on various operating s
 1. *[Basics of Open Source Licenses Article](https://medium.com/nationwide-technology/a-short-guide-to-open-source-licenses-cf5b1c329edd)*
 2. *[Summarized Software Licenses](https://tldrlegal.com/)*
 
-   ## Contributors
+## 👩‍🚀Contributors👨‍🚀
 To get yourself added here, head over to your closed pull request and leave the following comment:
 ```plaintext
 @all-contributors please add @<username> for <contributions>
