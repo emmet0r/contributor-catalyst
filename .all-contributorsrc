@@ -89,10 +89,21 @@
         "doc",
         "ideas"
       ]
+    },
+    {
         "login": "Jordin221",
       "name": "Jordin",
       "avatar_url": "https://avatars.githubusercontent.com/u/173185647?v=4",
       "profile": "https://github.com/Jordin221",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+        "login": "JeremiahAHoward",
+      "name": "Jeremiah Howard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173306185?v=4",
+      "profile": "https://github.com/JeremiahAHoward",
       "contributions": [
         "doc"
       ]
