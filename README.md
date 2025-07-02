@@ -88,6 +88,8 @@ To get yourself added here, head over to your closed pull request and leave the 
 ```plaintext
 @all-contributors please add @<username> for <contributions>
 ```
+[Emoji Key](https://github.com/all-contributors/all-contributors/blob/master/docs/emoji-key.md)  
+
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
