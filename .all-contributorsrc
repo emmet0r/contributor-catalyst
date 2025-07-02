@@ -14,7 +14,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/124199231?v=4",
       "profile": "https://github.com/SilasVM",
       "contributions": [
-        "doc"
+        "doc",
+        "mentoring",
+        "ideas",
+        "maintenance",
+        "talk",
+        "review"
       ]
     },
     {
@@ -29,6 +34,15 @@
         "talk",
         "review",
         "doc"
+      ]
+    },
+    {
+      "login": "smrghsh",
+      "name": "Samir Ghosh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22751315?v=4",
+      "profile": "http://samir.tech",
+      "contributions": [
+        "mentoring"
       ]
     }
   ]
