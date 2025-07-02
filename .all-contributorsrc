@@ -23,7 +23,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/279967?v=4",
       "profile": "http://users.soe.ucsc.edu/~emme/",
       "contributions": [
-        "mentoring"
+        "mentoring",
+        "maintenance",
+        "ideas",
+        "talk",
+        "review"
       ]
     }
   ]
