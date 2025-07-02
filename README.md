@@ -103,6 +103,7 @@ To get yourself added here, head over to your closed pull request and leave the 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/thatguyseven"><img src="https://avatars.githubusercontent.com/u/137221692?v=4?s=100" width="100px;" alt="Aaron Ni"/><br /><sub><b>Aaron Ni</b></sub></a><br /><a href="#doc-thatguyseven" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Wavyeli32"><img src="https://avatars.githubusercontent.com/u/145284361?v=4?s=100" width="100px;" alt="Elijah Everett"/><br /><sub><b>Elijah Everett</b></sub></a><br /><a href="#doc-Wavyeli32" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/klbynum"><img src="https://avatars.githubusercontent.com/u/119598875?v=4?s=100" width="100px;" alt="Kemon Bynum"/><br /><sub><b>Kemon Bynum</b></sub></a><br /><a href="#doc-klbynum" title="Documentation">📖</a> <a href="#ideas-klbynum" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jordin221"><img src="https://avatars.githubusercontent.com/u/173185647?v=4?s=100" width="100px;" alt="Jordin"/><br /><sub><b>Jordin</b></sub></a><br /><a href="#doc-Jordin221" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
