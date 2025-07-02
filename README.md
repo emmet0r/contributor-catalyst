@@ -101,6 +101,7 @@ To get yourself added here, head over to your closed pull request and leave the 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/OnexiMedina"><img src="https://avatars.githubusercontent.com/u/112675769?v=4?s=100" width="100px;" alt="Onexi"/><br /><sub><b>Onexi</b></sub></a><br /><a href="#doc-OnexiMedina" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/snwarner22"><img src="https://avatars.githubusercontent.com/u/137221902?v=4?s=100" width="100px;" alt="Sekani Warner"/><br /><sub><b>Sekani Warner</b></sub></a><br /><a href="#doc-snwarner22" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/thatguyseven"><img src="https://avatars.githubusercontent.com/u/137221692?v=4?s=100" width="100px;" alt="Aaron Ni"/><br /><sub><b>Aaron Ni</b></sub></a><br /><a href="#doc-thatguyseven" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Wavyeli32"><img src="https://avatars.githubusercontent.com/u/145284361?v=4?s=100" width="100px;" alt="Elijah Everett"/><br /><sub><b>Elijah Everett</b></sub></a><br /><a href="#doc-Wavyeli32" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>

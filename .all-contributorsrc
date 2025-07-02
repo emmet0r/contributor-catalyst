@@ -53,7 +53,7 @@
       "contributions": [
         "doc"
       ]
-    },
+    },    
     {
       "login": "snwarner22",
       "name": "Sekani Warner",
@@ -68,6 +68,15 @@
       "name": "Aaron Ni",
       "avatar_url": "https://avatars.githubusercontent.com/u/137221692?v=4",
       "profile": "https://github.com/thatguyseven",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Wavyeli32",
+      "name": "Elijah Everett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145284361?v=4",
+      "profile": "https://github.com/Wavyeli32",
       "contributions": [
         "doc"
       ]
