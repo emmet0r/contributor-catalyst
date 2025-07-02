@@ -112,6 +112,9 @@ To get yourself added here, head over to your closed pull request and leave the 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/npNSU"><img src="https://avatars.githubusercontent.com/u/179620963?v=4?s=100" width="100px;" alt="Nia Perez"/><br /><sub><b>Nia Perez</b></sub></a><br /><a href="#doc-npNSU" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/devon3583"><img src="https://avatars.githubusercontent.com/u/154306718?v=4?s=100" width="100px;" alt="Devon Bobo"/><br /><sub><b>Devon Bobo</b></sub></a><br /><a href="#doc-devon3583" title="Documentation">📖</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dcaine125"><img src="https://avatars.githubusercontent.com/u/179405193?v=4?s=100" width="100px;" alt="Denzel Caine(He/Him)"/><br /><sub><b>Denzel Caine(He/Him)</b></sub></a><br /><a href="#doc-dcaine125" title="Documentation">📖</a></td>
+    </tr>
   </tbody>
 </table>
 
