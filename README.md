@@ -2,7 +2,7 @@
 *A summer mentorship program hosted by the UC Santa Cruz Open Source Program Office*
 
 ## Meet the 2026 Cohort
-
+### **[🎱Nijel⚔️] (https://github.com/Nijel05).**
 
 ## Meet the 2025 Cohort
 ### **[🧸Kayla🌸](https://github.com/kaybcodes)**
