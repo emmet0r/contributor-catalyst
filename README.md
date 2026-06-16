@@ -3,6 +3,8 @@
 
 ## Meet the 2026 Cohort
 ### **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**
+### **[💮Kendall💮](https://github.com/kendall-hill)**
+### **[🌃Jordin🪐](https://github.com/Jordin221)**
 
 ## Meet the 2025 Cohort
 ### **[🧸Kayla🌸](https://github.com/kaybcodes)**
