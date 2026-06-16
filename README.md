@@ -3,6 +3,7 @@
 
 ## Meet the 2026 Cohort
 ### **[⚔️Nije'l🎱](https://github.com/Nijel05)**
+### [💅🏾Mariah💻](https://github.com/riahdollxo)
 ### **🎸🌱[Silas](https://github.com/SilasVM)📸🎆**
 ### **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**
 ### **[☠️Amario☠️](https://github.com/aiamerson)**
@@ -148,6 +149,8 @@ To get yourself added here, head over to your closed pull request and leave the 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/awood0727"><img src="https://avatars.githubusercontent.com/u/216573369?v=4?s=100" width="100px;" alt="Amante' Woodley"/><br /><sub><b>Amante' Woodley</b></sub></a><br /><a href="#doc-awood0727" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jakbrownbytes"><img src="https://avatars.githubusercontent.com/u/216607786?v=4?s=100" width="100px;" alt="Jakiya Brown"/><br /><sub><b>Jakiya Brown</b></sub></a><br /><a href="#doc-jakbrownbytes" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/xmcgee26"><img src="https://avatars.githubusercontent.com/u/259361766?v=4?s=100" width="100px;" alt="Xavier McGee"/><br /><sub><b>Xavier McGee</b></sub></a><br /><a href="#doc-xmcgee26" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DesmondD10"><img src="https://avatars.githubusercontent.com/u/156851030?v=4?s=100" width="100px;" alt="Desmond Dunlap"/><br /><sub><b>Desmond Dunlap</b></sub></a><br /><a href="#doc-DesmondD10" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://mariahpiggs.my.canva.site/"><img src="https://avatars.githubusercontent.com/u/232701533?v=4?s=100" width="100px;" alt="Mariah Piggs"/><br /><sub><b>Mariah Piggs</b></sub></a><br /><a href="#doc-riahdollxo" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
