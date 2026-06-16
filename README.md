@@ -3,6 +3,17 @@
 
 ## Meet the 2026 Cohort
 ### [💅🏾Mariah💻](https://github.com/riahdollxo)
+### **🎸🌱[Silas](https://github.com/SilasVM)📸🎆**
+### **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**
+### **[🎱Nijel⚔️](https://github.com/Nijel05).**
+### **[☠️Amario☠️](https://github.com/aiamerson)**
+### **[🕷️Xavier🕺🏾](https://github.com/xmcgee26)**
+### **[🕷️Amari👽](https://github.com/MarsGray)**
+### **[😎Jaden🎸](https://github.com/JadenLunsford)**
+### **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**
+### **[💮Kendall💮](https://github.com/kendall-hill)**
+### **[🌃Jordin🪐](https://github.com/Jordin221)**
+
 
 ## Meet the 2025 Cohort
 ### **[🧸Kayla🌸](https://github.com/kaybcodes)**
@@ -21,13 +32,25 @@
 ## Past Cohorts
 ###### 2025:
 
+#### **[🧸Kayla🌸](https://github.com/kaybcodes)**, **[🎀༘Kailea💋](https://github.com/kailealee)**
+#### **🍀[Nia](https://github.com/npNSU) 🔰**, **📸[Devon](https://github.com/devon3583)🐆**
+#### **[🐜Amante'🛳️](https://github.com/awood0727)**, **[🪞Jakiya🪞](https://github.com/jakbrownbytes)** 
+#### **⭐️[Kaylee](https://github.com/purpleskates123)🎨**, **[😎Denzel👌](https://github.com/dcaine125)**
+#### **🎸[Silas](https://github.com/SilasVM) 📸**
+
+
+#### **[🧸Kayla🌸](https://github.com/kaybcodes)** **[🎀༘Kailea💋](https://github.com/kailealee)** **🍀[Nia](https://github.com/npNSU) 🔰**
+#### **📸[Devon](https://github.com/devon3583)🐆** **[🐜Amante'🛳️](https://github.com/awood0727)** **[🪞Jakiya🪞](https://github.com/jakbrownbytes)**
+#### **⭐️[Kaylee](https://github.com/purpleskates123)🎨** **[😎Denzel👌](https://github.com/dcaine125)** **🎸[Silas](https://github.com/SilasVM) 📸**
+
+#### [2025 Cohort Expectations](https://github.com/emmet0r/contributor-catalyst/blob/main/2025-Exepctations.md)
 ###### 2024:
-#### **[🎮Jordin🐵](https://github.com/Jordin221)** **[⭐️Kemon💻](https://github.com/klbynum)**
-#### **[🐐Elijah](https://github.com/Wavyeli32/)** **[🎺Jeremiah](https://github.com/JeremiahAHoward)** **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+#### **[🎮Jordin🐵](https://github.com/Jordin221)**, **[⭐️Kemon💻](https://github.com/klbynum)**
+#### **[🐐Elijah](https://github.com/Wavyeli32/)**, **[🎺Jeremiah](https://github.com/JeremiahAHoward)**, **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 #### **[Cohort Expectations for 2024](https://github.com/emmet0r/contributor-catalyst/blob/main/2024-expectations.md)**
 ###### 2023: 
-#### **[🐐Aaron🧩](https://github.com/thatguyseven/)** **[🥽Sekani🎨](https://github.com/snwarner22)**
-#### **[💥Onexi🌴](https://github.com/OnexiMedina)**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+#### **[🐐Aaron🧩](https://github.com/thatguyseven/)**, **[🥽Sekani🎨](https://github.com/snwarner22)**
+#### **[💥Onexi🌴](https://github.com/OnexiMedina)**, **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 
 </br>
 
@@ -125,6 +148,7 @@ To get yourself added here, head over to your closed pull request and leave the 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/purpleskates123"><img src="https://avatars.githubusercontent.com/u/216603447?v=4?s=100" width="100px;" alt="Kaylee Williams"/><br /><sub><b>Kaylee Williams</b></sub></a><br /><a href="#doc-purpleskates123" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/awood0727"><img src="https://avatars.githubusercontent.com/u/216573369?v=4?s=100" width="100px;" alt="Amante' Woodley"/><br /><sub><b>Amante' Woodley</b></sub></a><br /><a href="#doc-awood0727" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jakbrownbytes"><img src="https://avatars.githubusercontent.com/u/216607786?v=4?s=100" width="100px;" alt="Jakiya Brown"/><br /><sub><b>Jakiya Brown</b></sub></a><br /><a href="#doc-jakbrownbytes" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/xmcgee26"><img src="https://avatars.githubusercontent.com/u/259361766?v=4?s=100" width="100px;" alt="Xavier McGee"/><br /><sub><b>Xavier McGee</b></sub></a><br /><a href="#doc-xmcgee26" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
