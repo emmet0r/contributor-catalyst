@@ -6,7 +6,6 @@
 ### [💅🏾Mariah💻](https://github.com/riahdollxo)
 ### **🎸🌱[Silas](https://github.com/SilasVM)📸🎆**
 ### **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**
-### **[🎱Nijel⚔️](https://github.com/Nijel05).**
 ### **[☠️Amario💎](https://github.com/aiamerson)**
 ### **[🕷️Xavier🕺🏾](https://github.com/xmcgee26)**
 ### **[🎮Amari🏠](https://github.com/MarsGray)**
