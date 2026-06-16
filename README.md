@@ -6,14 +6,26 @@
 ### [💅🏾Mariah💻](https://github.com/riahdollxo)
 ### **🎸🌱[Silas](https://github.com/SilasVM)📸🎆**
 ### **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**
-### **[🎱Nijel⚔️](https://github.com/Nijel05).**
-### **[☠️Amario💎](https://github.com/aiamerson)**
+### **[☠️Amario☠️](https://github.com/aiamerson)**
 ### **[🕷️Xavier🕺🏾](https://github.com/xmcgee26)**
 ### **[🎮Amari🏠](https://github.com/MarsGray)**
 ### **[😎Jaden🎸](https://github.com/JadenLunsford)**
 ### **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**
 ### **[💮Kendall💮](https://github.com/kendall-hill)**
 ### **[🌃Jordin🪐](https://github.com/Jordin221)**
+
+
+## Meet the 2025 Cohort
+### **[🧸Kayla🌸](https://github.com/kaybcodes)**
+### **[🎀༘Kailea💋](https://github.com/kailealee)**
+### **🍀[Nia](https://github.com/npNSU) 🔰**
+### **📸[Devon](https://github.com/devon3583)🐆**
+### **[🐜Amante'🛳️](https://github.com/awood0727)**
+### **[🪞Jakiya🪞](https://github.com/jakbrownbytes)** 
+### **⭐️[Kaylee](https://github.com/purpleskates123)🎨**
+### **[😎Denzel👌](https://github.com/dcaine125)**
+### **🎸[Silas](https://github.com/SilasVM) 📸**
+#### [2025 Cohort Expectations](https://github.com/emmet0r/contributor-catalyst/blob/main/2025-Exepctations.md)
 
 </br>
 
@@ -105,7 +117,7 @@ To get yourself added here, head over to your closed pull request and leave the 
 ```plaintext
 @all-contributors please add @<username> for <contributions>
 ```
-[Emoji Key](https://allcontributors.org/en/reference/emoji-key/)  
+[Emoji Key](https://github.com/all-contributors/all-contributors/blob/master/docs/emoji-key.md)  
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
