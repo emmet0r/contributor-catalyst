@@ -19,6 +19,8 @@
 </br>
 
 ## Past Cohorts
+###### 2025:
+
 ###### 2024:
 #### **[🎮Jordin🐵](https://github.com/Jordin221)** **[⭐️Kemon💻](https://github.com/klbynum)**
 #### **[🐐Elijah](https://github.com/Wavyeli32/)** **[🎺Jeremiah](https://github.com/JeremiahAHoward)** **🕴🏾[Silas](https://github.com/SilasVM) 📸**
