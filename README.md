@@ -9,7 +9,7 @@
 ### **[🎱Nijel⚔️](https://github.com/Nijel05).**
 ### **[☠️Amario💎](https://github.com/aiamerson)**
 ### **[🕷️Xavier🕺🏾](https://github.com/xmcgee26)**
-### **[🕷️Amari👽](https://github.com/MarsGray)**
+### **[🎮Amari🏠](https://github.com/MarsGray)**
 ### **[😎Jaden🎸](https://github.com/JadenLunsford)**
 ### **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**
 ### **[💮Kendall💮](https://github.com/kendall-hill)**
