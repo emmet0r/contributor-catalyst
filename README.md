@@ -152,6 +152,9 @@ To get yourself added here, head over to your closed pull request and leave the 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/DesmondD10"><img src="https://avatars.githubusercontent.com/u/156851030?v=4?s=100" width="100px;" alt="Desmond Dunlap"/><br /><sub><b>Desmond Dunlap</b></sub></a><br /><a href="#doc-DesmondD10" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://mariahpiggs.my.canva.site/"><img src="https://avatars.githubusercontent.com/u/232701533?v=4?s=100" width="100px;" alt="Mariah Piggs"/><br /><sub><b>Mariah Piggs</b></sub></a><br /><a href="#doc-riahdollxo" title="Documentation">📖</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nijel05"><img src="https://avatars.githubusercontent.com/u/209801198?v=4?s=100" width="100px;" alt="Nijel05"/><br /><sub><b>Nijel05</b></sub></a><br /><a href="#doc-Nijel05" title="Documentation">📖</a></td>
+    </tr>
   </tbody>
 </table>
 
