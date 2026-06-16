@@ -2,6 +2,7 @@
 *A summer mentorship program hosted by the UC Santa Cruz Open Source Program Office*
 
 ## Meet the 2026 Cohort
+### **[🕷️Xavier🕺🏾](https://github.com/xmcgee26)**
 ### **[🕷️Amari👽](https://github.com/MarsGray)**
 ### **[😎Jaden🎸](https://github.com/JadenLunsford)**
 ### **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**
