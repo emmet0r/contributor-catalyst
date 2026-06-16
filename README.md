@@ -155,6 +155,7 @@ To get yourself added here, head over to your closed pull request and leave the 
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nijel05"><img src="https://avatars.githubusercontent.com/u/209801198?v=4?s=100" width="100px;" alt="Nijel05"/><br /><sub><b>Nijel05</b></sub></a><br /><a href="#doc-Nijel05" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MarsGray"><img src="https://avatars.githubusercontent.com/u/170032477?v=4?s=100" width="100px;" alt="MarsGray"/><br /><sub><b>MarsGray</b></sub></a><br /><a href="#doc-MarsGray" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kendall-hill"><img src="https://avatars.githubusercontent.com/u/118570854?v=4?s=100" width="100px;" alt="Kendall Hill"/><br /><sub><b>Kendall Hill</b></sub></a><br /><a href="#doc-kendall-hill" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
