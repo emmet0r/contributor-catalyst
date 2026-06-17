@@ -2,45 +2,42 @@
 *A summer mentorship program hosted by the UC Santa Cruz Open Source Program Office*
 
 ## Meet the 2026 Cohort
+### **[⚔️Nije'l🎱](https://github.com/Nijel05)**
+### [💅🏾Mariah💻](https://github.com/riahdollxo)
+### **🎸🌱[Silas](https://github.com/SilasVM)📸🎆**
 ### **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**
-### **[🎱Nijel⚔️](https://github.com/Nijel05).**
-### **[☠️Amario☠️](https://github.com/aiamerson)**
+### **[☠️Amario💎](https://github.com/aiamerson)**
 ### **[🕷️Xavier🕺🏾](https://github.com/xmcgee26)**
-### **[🕷️Amari👽](https://github.com/MarsGray)**
+### **[🎮Amari🏠](https://github.com/MarsGray)**
 ### **[😎Jaden🎸](https://github.com/JadenLunsford)**
 ### **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**
 ### **[💮Kendall💮](https://github.com/kendall-hill)**
 ### **[🌃Jordin🪐](https://github.com/Jordin221)**
 
-
-## Meet the 2025 Cohort
-### **[🧸Kayla🌸](https://github.com/kaybcodes)**
-### **[🎀༘Kailea💋](https://github.com/kailealee)**
-### **🍀[Nia](https://github.com/npNSU) 🔰**
-### **📸[Devon](https://github.com/devon3583)🐆**
-### **[🐜Amante'🛳️](https://github.com/awood0727)**
-### **[🪞Jakiya🪞](https://github.com/jakbrownbytes)** 
-### **⭐️[Kaylee](https://github.com/purpleskates123)🎨**
-### **[😎Denzel👌](https://github.com/dcaine125)**
-### **🎸[Silas](https://github.com/SilasVM) 📸**
-#### [2025 Cohort Expectations](https://github.com/emmet0r/contributor-catalyst/blob/main/2025-Exepctations.md)
-
-
 </br>
 
 ## Past Cohorts
 ###### 2025:
+
+#### **[🧸Kayla🌸](https://github.com/kaybcodes)**, **[🎀༘Kailea💋](https://github.com/kailealee)**
+#### **🍀[Nia](https://github.com/npNSU) 🔰**, **📸[Devon](https://github.com/devon3583)🐆**
+#### **[🐜Amante'🛳️](https://github.com/awood0727)**, **[🪞Jakiya🪞](https://github.com/jakbrownbytes)** 
+#### **⭐️[Kaylee](https://github.com/purpleskates123)🎨**, **[😎Denzel👌](https://github.com/dcaine125)**
+#### **🎸[Silas](https://github.com/SilasVM) 📸**
+
+
 #### **[🧸Kayla🌸](https://github.com/kaybcodes)** **[🎀༘Kailea💋](https://github.com/kailealee)** **🍀[Nia](https://github.com/npNSU) 🔰**
 #### **📸[Devon](https://github.com/devon3583)🐆** **[🐜Amante'🛳️](https://github.com/awood0727)** **[🪞Jakiya🪞](https://github.com/jakbrownbytes)**
 #### **⭐️[Kaylee](https://github.com/purpleskates123)🎨** **[😎Denzel👌](https://github.com/dcaine125)** **🎸[Silas](https://github.com/SilasVM) 📸**
+
 #### [2025 Cohort Expectations](https://github.com/emmet0r/contributor-catalyst/blob/main/2025-Exepctations.md)
 ###### 2024:
-#### **[🎮Jordin🐵](https://github.com/Jordin221)** **[⭐️Kemon💻](https://github.com/klbynum)**
-#### **[🐐Elijah](https://github.com/Wavyeli32/)** **[🎺Jeremiah](https://github.com/JeremiahAHoward)** **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+#### **[🎮Jordin🐵](https://github.com/Jordin221)**, **[⭐️Kemon💻](https://github.com/klbynum)**
+#### **[🐐Elijah](https://github.com/Wavyeli32/)**, **[🎺Jeremiah](https://github.com/JeremiahAHoward)**, **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 #### **[Cohort Expectations for 2024](https://github.com/emmet0r/contributor-catalyst/blob/main/2024-expectations.md)**
 ###### 2023: 
-#### **[🐐Aaron🧩](https://github.com/thatguyseven/)** **[🥽Sekani🎨](https://github.com/snwarner22)**
-#### **[💥Onexi🌴](https://github.com/OnexiMedina)**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+#### **[🐐Aaron🧩](https://github.com/thatguyseven/)**, **[🥽Sekani🎨](https://github.com/snwarner22)**
+#### **[💥Onexi🌴](https://github.com/OnexiMedina)**, **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 
 </br>
 
@@ -107,7 +104,7 @@ To get yourself added here, head over to your closed pull request and leave the 
 ```plaintext
 @all-contributors please add @<username> for <contributions>
 ```
-[Emoji Key](https://github.com/all-contributors/all-contributors/blob/master/docs/emoji-key.md)  
+[Emoji Key](https://allcontributors.org/en/reference/emoji-key/)  
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -139,6 +136,14 @@ To get yourself added here, head over to your closed pull request and leave the 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/awood0727"><img src="https://avatars.githubusercontent.com/u/216573369?v=4?s=100" width="100px;" alt="Amante' Woodley"/><br /><sub><b>Amante' Woodley</b></sub></a><br /><a href="#doc-awood0727" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jakbrownbytes"><img src="https://avatars.githubusercontent.com/u/216607786?v=4?s=100" width="100px;" alt="Jakiya Brown"/><br /><sub><b>Jakiya Brown</b></sub></a><br /><a href="#doc-jakbrownbytes" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/aiamerson"><img src="https://avatars.githubusercontent.com/u/227625149?v=4?s=100" width="100px;" alt="Amario Amerson"/><br /><sub><b>Amario Amerson</b></sub></a><br /><a href="#doc-aiamerson" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/xmcgee26"><img src="https://avatars.githubusercontent.com/u/259361766?v=4?s=100" width="100px;" alt="Xavier McGee"/><br /><sub><b>Xavier McGee</b></sub></a><br /><a href="#doc-xmcgee26" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DesmondD10"><img src="https://avatars.githubusercontent.com/u/156851030?v=4?s=100" width="100px;" alt="Desmond Dunlap"/><br /><sub><b>Desmond Dunlap</b></sub></a><br /><a href="#doc-DesmondD10" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://mariahpiggs.my.canva.site/"><img src="https://avatars.githubusercontent.com/u/232701533?v=4?s=100" width="100px;" alt="Mariah Piggs"/><br /><sub><b>Mariah Piggs</b></sub></a><br /><a href="#doc-riahdollxo" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nijel05"><img src="https://avatars.githubusercontent.com/u/209801198?v=4?s=100" width="100px;" alt="Nijel05"/><br /><sub><b>Nijel05</b></sub></a><br /><a href="#doc-Nijel05" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MarsGray"><img src="https://avatars.githubusercontent.com/u/170032477?v=4?s=100" width="100px;" alt="MarsGray"/><br /><sub><b>MarsGray</b></sub></a><br /><a href="#doc-MarsGray" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kendall-hill"><img src="https://avatars.githubusercontent.com/u/118570854?v=4?s=100" width="100px;" alt="Kendall Hill"/><br /><sub><b>Kendall Hill</b></sub></a><br /><a href="#doc-kendall-hill" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
