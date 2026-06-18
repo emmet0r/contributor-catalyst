@@ -1,4 +1,4 @@
-## Our Pledge
+## Our Pledge 
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
@@ -65,6 +65,36 @@ The following behaviors are considered harassment and are unacceptable within ou
 By choosing to engage with our community, you commit to aligning with our values and expectations for behavior.
 
 Safety is of high priotity, and as such we will take as much possible actions to ensure everyone feels safe in the event of a potential violations of our code of conduct.
+
+# Weapons Policy
+Section 100.00
+> 102.20 Firearms, Knives and Other Weapons
+> 
+> (a) Possession, use, or manufacture of a firearm or other weapon as prohibited by University
+regulations. University regulations and California law prohibit possession or use of firearms
+on University property or at official University functions.
+> 
+> (b) Possession of a knife as defined in the California Penal Code, Section 626.10. This section
+prohibits anyone from bringing or possessing a dirk, dagger, ice pick, or knife having a fixed
+blade longer than 2.5 inches, including a folding knife with a blade that locks into place, on
+or in University property or at official University functions except as expressly permitted by
+law.
+> 
+> (c) Possession on University property or at official University functions of a “less than lethal
+weapon,” including but not limited to those defined in California Penal Code 626.10: stun
+guns, Tasers, bow or crossbows designed to shoot arrows, BB or pellet gun, slingshot,
+blow-guns, paint-ball guns, pepper spray in canisters larger than 2.5 ounces, or tear gas
+weapons are prohibited.
+Weapons allowed by the California Penal Code for training purposes, such as swords,
+nun-chucks, or sais for a martial arts class are not allowed in University -owned or -leased
+housing. Martial arts weapons are not to be openly displayed on campus outside of Athletics
+and Recreation martial arts classes and, if not stored in a locker at Athletics and Recreation,
+these weapons must be locked in a container while traveling to and from class and locked in
+the trunk of a car while not in use.
+> 
+> (d) Possession or use of a facsimile or replica firearm or weapon is prohibited.
+
+Student Handbook : [Section 100.00](https://docs.google.com/document/d/1vIZPe4oTLAAR8B-BPZ0cE7Spq66WY9_yLsCpVA4g674/edit?tab=t.0)
 
 ## Consequences of Unacceptable Behavior
 Unacceptable behavior from any participant or person with decision making authority will not be tolerated.
