@@ -11,7 +11,7 @@ We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community. The goal of our program is to foster 
 supportive mentorship, personal development, and lasting connection between peers. 
 
-Diversity and Inclusion are amoung our greatest strengths, though they can sometimes present challenges in communication and overall team cohesion. To that end, we have a few 
+Diversity and Inclusion are among our greatest strengths, though they can sometimes present challenges in communication and overall team cohesion. To that end, we have a few 
 ground rules that we ask people to adhere to.
 
 <!--- This code of conduct applies to all spaces managed by the Django project or Django 
@@ -41,6 +41,8 @@ community include:
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall
   community
+* Recognizing the real-world impact of technology and encouraging responsible, secure,
+  and accessible innovation
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
@@ -94,6 +96,16 @@ the trunk of a car while not in use.
 
 Student Handbook : [Section 100.00](https://docs.google.com/document/d/1vIZPe4oTLAAR8B-BPZ0cE7Spq66WY9_yLsCpVA4g674/edit?tab=t.0)
 
+## Consequences of Unacceptable Behavior
+Unacceptable behavior from any participant or person with decision making authority will not be tolerated.
+Anyone asked to stop unacceptable behavior is expected to comply immediately.
+If a participant or person with decision making authority engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including:
+
+* Temporary or permanent removal from the Contributor Catalyst Program
+
+* Loss of current or pending payment
+
+* Forfeiture of any associated benefits regardless of work already completed
 
 ## Reporting Guidelines
 If you believe anyone is in immediate physical danger, please notify appropriate law enforcement first. (In Santa Cruz, dialing 911 is the best way to do this, on- or off-campus. If you are unable to call, you can also text 911 as outlined [here](https://police.ucsc.edu/about/directory.html). For non-emergency situations, please submit a report as outlined below and community organizers will notify law enforcement if necessary.
@@ -133,21 +145,34 @@ Additionally, we would like to encourage a cooperative environment so we ask tha
 
 <!--- Enforcement - take a break --->
 <!--- ADD the following to the section: This includes disputes unrelated to work or that did not occur in a Catalyst Managed Space --->
+## Responsible Use of AI-Generated Content
+* __Take ownership of your contributions__. You are responsible for the content you share.
+* __Review and revise AI-generated responses before posting__. Ensure they reflect your own understanding and voice.
+* __Apply your expertise__ to validate that the information is accurate, relevant, and helpful.
+
+These practices support a community built on trust, collaboration, and mutual respect. Misuse of AI is considered a violation of our Code of Conduct.
 
 ## Attribution
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0/).
 
 Portions of this code of conduct are derived from the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/), [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md), [Django](https://www.djangoproject.com/conduct/).
 
+Our AI policy is adapted and inspired by [Microsoft's Responsible AI principles](https://opensource.microsoft.com/codeofconduct/).
+
+__License__: [MIT License](https://opensource.org/license/mit)
+
 </br>
 In addition, this Code of Conduct was reviewed and edited by the author and the current and past cohorts of the Contributor Catalyst summer mentorship program
 
-### Author
+## Document Authorship & Contributions
+This Code of Conduct is a living document collaboratively co-authored, reviewed, and refined by the Contributor Catalyst Team.
+
+## Co-Authors
+### Program Organizer 
+
 **[Dr. Emily Lovell](https://github.com/emmet0r/contributor-catalyst)**
 
-</br>
-
-### 2026 Cohort [Current]
+### 2026 Cohort
 
 **[⚔️Nije'l🎱](https://github.com/Nijel05)**   **[💅🏾Mariah💻](https://github.com/riahdollxo)**   **🎸🌱[Silas](https://github.com/SilasVM)📸🎆**   **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**   **[☠️Amario💎](https://github.com/aiamerson)**
 
@@ -176,3 +201,4 @@ In addition, this Code of Conduct was reviewed and edited by the author and the 
 **🐐[Aaron](https://github.com/thatguyseven/) 🧩**   **🥽[Sekani](https://github.com/snwarner22) 🎨**
 
 **💥[Onexi](https://github.com/OnexiMedina) 🌴**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+
