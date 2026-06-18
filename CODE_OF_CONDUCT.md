@@ -1,4 +1,4 @@
-## Our Pledge
+## Our Pledge 
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
@@ -11,7 +11,7 @@ We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community. The goal of our program is to foster 
 supportive mentorship, personal development, and lasting connection between peers. 
 
-Diversity and Inclusion are amoung our greatest strengths, though they can sometimes present challenges in communication and overall team cohesion. To that end, we have a few 
+Diversity and Inclusion are among our greatest strengths, though they can sometimes present challenges in communication and overall team cohesion. To that end, we have a few 
 ground rules that we ask people to adhere to.
 
 <!--- This code of conduct applies to all spaces managed by the Django project or Django 
@@ -41,6 +41,8 @@ community include:
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall
   community
+* Recognizing the real-world impact of technology and encouraging responsible, secure,
+  and accessible innovation
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
@@ -59,12 +61,53 @@ The following behaviors are considered harassment and are unacceptable within ou
   
 By choosing to engage with our community, you commit to aligning with our values and expectations for behavior.
 
-Safety is of high priotity, and as such we will take as much possible actions to ensure everyone feels safe in the event of a potential violations of our code of conduct.
+Safety is of high priority, and as such we will take as many possible actions to ensure everyone feels safe in the event of a potential violation of our code of conduct.
+
+# Weapons Policy
+Section 100.00
+> 102.20 Firearms, Knives and Other Weapons
+> 
+> (a) Possession, use, or manufacture of a firearm or other weapon as prohibited by University
+regulations. University regulations and California law prohibit possession or use of firearms
+on University property or at official University functions.
+> 
+> (b) Possession of a knife as defined in the California Penal Code, Section 626.10. This section
+prohibits anyone from bringing or possessing a dirk, dagger, ice pick, or knife having a fixed
+blade longer than 2.5 inches, including a folding knife with a blade that locks into place, on
+or in University property or at official University functions except as expressly permitted by
+law.
+> 
+> (c) Possession on University property or at official University functions of a “less than lethal
+weapon,” including but not limited to those defined in California Penal Code 626.10: stun
+guns, Tasers, bow or crossbows designed to shoot arrows, BB or pellet gun, slingshot,
+blow-guns, paint-ball guns, pepper spray in canisters larger than 2.5 ounces, or tear gas
+weapons are prohibited.
+Weapons allowed by the California Penal Code for training purposes, such as swords,
+nun-chucks, or sais for a martial arts class are not allowed in University -owned or -leased
+housing. Martial arts weapons are not to be openly displayed on campus outside of Athletics
+and Recreation martial arts classes and, if not stored in a locker at Athletics and Recreation,
+these weapons must be locked in a container while traveling to and from class and locked in
+the trunk of a car while not in use.
+> 
+> (d) Possession or use of a facsimile or replica firearm or weapon is prohibited.
+
+Student Handbook : [Section 100.00](https://docs.google.com/document/d/1vIZPe4oTLAAR8B-BPZ0cE7Spq66WY9_yLsCpVA4g674/edit?tab=t.0)
+
+## Consequences of Unacceptable Behavior
+Unacceptable behavior from any participant or person with decision making authority will not be tolerated.
+Anyone asked to stop unacceptable behavior is expected to comply immediately.
+If a participant or person with decision making authority engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including:
+
+* Temporary or permanent removal from the Contributor Catalyst Program
+
+* Loss of current or pending payment
+
+* Forfeiture of any associated benefits regardless of work already completed
 
 ## Reporting Guidelines
 If you believe anyone is in immediate physical danger, please notify appropriate law enforcement first. (In Santa Cruz, dialing 911 is the best way to do this, on- or off-campus. If you are unable to call, you can also text 911 as outlined [here](https://police.ucsc.edu/about/directory.html). For non-emergency situations, please submit a report as outlined below and community organizers will notify law enforcement if necessary.
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. **For in-person, after-hours support, you can contact UCSC's Safety Dispatch Office Line: (831) 459-2100**. Community Safety Officersties (CSOs) are visible in campus residential communities from 7pm to 3am nightly, and may also be approached for help.
+Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. **For in-person, after-hours support, you can contact UCSC's Safety Dispatch Office Line: (831) 459-2100**. Community Safety Officers (CSOs) are visible in campus residential communities from 7pm to 3am nightly, and may also be approached for help.
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible:
 - Emily Lovell (she/her) : emme@soe.ucsc.edu
@@ -99,31 +142,52 @@ Additionally, we would like to encourage a cooperative environment so we ask tha
 
 <!--- Enforcement - take a break --->
 <!--- ADD the following to the section: This includes disputes unrelated to work or that did not occur in a Catalyst Managed Space --->
+## Responsible Use of AI-Generated Content
+* __Take ownership of your contributions__. You are responsible for the content you share.
+* __Review and revise AI-generated responses before posting__. Ensure they reflect your own understanding and voice.
+* __Apply your expertise__ to validate that the information is accurate, relevant, and helpful.
+
+These practices support a community built on trust, collaboration, and mutual respect. Misuse of AI is considered a violation of our Code of Conduct.
 
 ## Attribution
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0/).
 
 Portions of this code of conduct are derived from the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/), [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md), [Django](https://www.djangoproject.com/conduct/).
 
+Our AI policy is adapted and inspired by [Microsoft's Responsible AI principles](https://opensource.microsoft.com/codeofconduct/).
+
+__License__: [MIT License](https://opensource.org/license/mit)
+
 </br>
 In addition, this Code of Conduct was reviewed and edited by the author and the current and past cohorts of the Contributor Catalyst summer mentorship program
 
-### Author
+## Document Authorship & Contributions
+This Code of Conduct is a living document collaboratively co-authored, reviewed, and refined by the Contributor Catalyst Team.
+
+## Co-Authors
+### Program Organizer 
+
 **[Dr. Emily Lovell](https://github.com/emmet0r/contributor-catalyst)**
+
+### 2026 Cohort
+
+**[⚔️Nije'l🎱](https://github.com/Nijel05)**   **[💅🏾Mariah💻](https://github.com/riahdollxo)**   **🎸🌱[Silas](https://github.com/SilasVM)📸🎆**   **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**   **[☠️Amario💎](https://github.com/aiamerson)**
+
+**[🕷️Xavier🕺🏾](https://github.com/xmcgee26)**   **[🎮Amari🏠](https://github.com/MarsGray)**   **[😎Jaden🎸](https://github.com/JadenLunsford)**   **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**   **[💮Kendall💮](https://github.com/kendall-hill)**   **[🌃Jordin🪐](https://github.com/Jordin221)**
 
 </br>
 
-### 2025 Cohort [Current]
+### 2025 Cohort
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🧸[Kayla](https://github.com/kaybcodes) 🌸**   **🎀༘[Kailea](https://github.com/kailealee) 💋**   **🍀[Nia](https://github.com/npNSU) 🔰**   **📸[Devon](https://github.com/devon3583)🐆**  
+**🧸[Kayla](https://github.com/kaybcodes) 🌸**   **🎀༘[Kailea](https://github.com/kailealee) 💋**   **🍀[Nia](https://github.com/npNSU) 🔰**   **📸[Devon](https://github.com/devon3583)🐆**   **⭐️[Kaylee](https://github.com/purpleskates123)🎨**
 
-**⭐️[Kaylee](https://github.com/purpleskates123)🎨**   **😎[Denzel](https://github.com/dcaine125) 👌**   **🎸[Silas](https://github.com/SilasVM) 📸**   **🪞[Jakiya](https://github.com/jakbrownbytes) 🪞**   **🐜[Amante'](https://github.com/awood0727) 🛳️**   
+**😎[Denzel](https://github.com/dcaine125) 👌**   **🎸[Silas](https://github.com/SilasVM) 📸**   **🪞[Jakiya](https://github.com/jakbrownbytes) 🪞**   **🐜[Amante'](https://github.com/awood0727) 🛳️**   
 
 </br>
 
 ### 2024 Cohort
 
-&nbsp;&nbsp; **🎮[Jordin](https://github.com/Jordin221) 🐵**   **⭐️[Kemon](https://github.com/klbynum) 💻**
+**🎮[Jordin](https://github.com/Jordin221) 🐵**   **⭐️[Kemon](https://github.com/klbynum) 💻**
 
 **🐐[Elijah](https://github.com/Wavyeli32/)**   **🎺[Jeremiah](https://github.com/JeremiahAHoward)**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 
@@ -134,3 +198,4 @@ In addition, this Code of Conduct was reviewed and edited by the author and the 
 **🐐[Aaron](https://github.com/thatguyseven/) 🧩**   **🥽[Sekani](https://github.com/snwarner22) 🎨**
 
 **💥[Onexi](https://github.com/OnexiMedina) 🌴**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+
