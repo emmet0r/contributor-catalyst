@@ -64,7 +64,7 @@ The following behaviors are considered harassment and are unacceptable within ou
   
 By choosing to engage with our community, you commit to aligning with our values and expectations for behavior.
 
-Safety is of high priotity, and as such we will take as much possible actions to ensure everyone feels safe in the event of a potential violations of our code of conduct.
+Safety is of high priority, and as such we will take as many possible actions to ensure everyone feels safe in the event of a potential violation of our code of conduct.
 
 # Weapons Policy
 Section 100.00
