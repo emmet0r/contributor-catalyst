@@ -199,3 +199,6 @@ This Code of Conduct is a living document collaboratively co-authored, reviewed,
 
 **💥[Onexi](https://github.com/OnexiMedina) 🌴**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 
+</br>
+
+[__UCSC Student Handbook__](https://drive.google.com/file/d/113gQgMKscFxIEaSp-GF6MoctyoraXU8e/view)
