@@ -66,6 +66,17 @@ By choosing to engage with our community, you commit to aligning with our values
 
 Safety is of high priotity, and as such we will take as much possible actions to ensure everyone feels safe in the event of a potential violations of our code of conduct.
 
+## Consequences of Unacceptable Behavior
+Unacceptable behavior from any participant or person with decision making authority will not be tolerated.
+Anyone asked to stop unacceptable behavior is expected to comply immediately.
+If a participant or person with decision making authority engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including:
+
+* Temporary or permanent removal from the Contributor Catalyst Program
+
+* Loss of current or pending payment
+
+* Forfeiture of any associated benefits regardless of work already completed
+
 ## Reporting Guidelines
 If you believe anyone is in immediate physical danger, please notify appropriate law enforcement first. (In Santa Cruz, dialing 911 is the best way to do this, on- or off-campus. If you are unable to call, you can also text 911 as outlined [here](https://police.ucsc.edu/about/directory.html). For non-emergency situations, please submit a report as outlined below and community organizers will notify law enforcement if necessary.
 
