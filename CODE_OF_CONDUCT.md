@@ -67,7 +67,7 @@ Safety is of high priotity, and as such we will take as much possible actions to
 ## Reporting Guidelines
 If you believe anyone is in immediate physical danger, please notify appropriate law enforcement first. (In Santa Cruz, dialing 911 is the best way to do this, on- or off-campus. If you are unable to call, you can also text 911 as outlined [here](https://police.ucsc.edu/about/directory.html). For non-emergency situations, please submit a report as outlined below and community organizers will notify law enforcement if necessary.
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. **For in-person, after-hours support, you can contact UCSC's Safety Dispatch Office Line: (831) 459-2100**. Community Safety Officersties (CSOs) are visible in campus residential communities from 7pm to 3am nightly, and may also be approached for help.
+Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. **For in-person, after-hours support, you can contact UCSC's Safety Dispatch Office Line: (831) 459-2100**. Community Safety Officers (CSOs) are visible in campus residential communities from 7pm to 3am nightly, and may also be approached for help.
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible:
 - Emily Lovell (she/her) : emme@soe.ucsc.edu
