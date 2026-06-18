@@ -111,12 +111,15 @@ Portions of this code of conduct are derived from the [Citizen Code of Conduct](
 </br>
 In addition, this Code of Conduct was reviewed and edited by the author and the current and past cohorts of the Contributor Catalyst summer mentorship program
 
-### Author
+## Document Authorship & Contributions
+This Code of Conduct is a living document collaboratively co-authored, reviewed, and refined by the Contributor Catalyst Team.
+
+## Co-Authors
+### Program Organizer 
+
 **[Dr. Emily Lovell](https://github.com/emmet0r/contributor-catalyst)**
 
-</br>
-
-### 2025 Cohort [Current]
+### 2025 Cohort
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🧸[Kayla](https://github.com/kaybcodes) 🌸**   **🎀༘[Kailea](https://github.com/kailealee) 💋**   **🍀[Nia](https://github.com/npNSU) 🔰**   **📸[Devon](https://github.com/devon3583)🐆**  
 
@@ -137,3 +140,4 @@ In addition, this Code of Conduct was reviewed and edited by the author and the 
 **🐐[Aaron](https://github.com/thatguyseven/) 🧩**   **🥽[Sekani](https://github.com/snwarner22) 🎨**
 
 **💥[Onexi](https://github.com/OnexiMedina) 🌴**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+
