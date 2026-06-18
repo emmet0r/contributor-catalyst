@@ -102,11 +102,21 @@ Additionally, we would like to encourage a cooperative environment so we ask tha
 
 <!--- Enforcement - take a break --->
 <!--- ADD the following to the section: This includes disputes unrelated to work or that did not occur in a Catalyst Managed Space --->
+## Responsible Use of AI-Generated Content
+* __Take ownership of your contributions__. You are responsible for the content you share.
+* __Review and revise AI-generated responses before posting__. Ensure they reflect your own understanding and voice.
+* __Apply your expertise__ to validate that the information is accurate, relevant, and helpful.
+
+These practices support a community built on trust, collaboration, and mutual respect. Misuse of AI is considered a violation of our Code of Conduct.
 
 ## Attribution
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0/).
 
 Portions of this code of conduct are derived from the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/), [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md), [Django](https://www.djangoproject.com/conduct/).
+
+Our AI policy is adapted and inspired by [Microsoft's Responsible AI principles](https://opensource.microsoft.com/codeofconduct/).
+
+__License__: [MIT License](https://opensource.org/license/mit)
 
 </br>
 In addition, this Code of Conduct was reviewed and edited by the author and the current and past cohorts of the Contributor Catalyst summer mentorship program
