@@ -47,14 +47,11 @@ community include:
 The following behaviors are considered harassment and are unacceptable within our community:
 
 * Violence, threats of violence or violent language directed against another person.
-* Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+* Discriminatory language, personal insults, or other unconstructive behavior, including sexist, racist, homophobic, transphobic, ableist remarks, trolling, or harassment directed at others.  
 * Posting or displaying sexually explicit or violent material.
 * Posting or threatening to post other people’s personally identifying information ("doxing").
-* Personal insults, particularly those related to gender, sexual orientation, race, religion, political orientation, or disability.
-* Trolling or otherwise unconstructive community behavior.
 * Inappropriate photography or recording.
-* Inappropriate physical contact. You should have someone’s consent before touching them.
-* Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+* Inappropriate physical contact or unwelcome sexual attention, including sexualized comments, advances, or other unwanted conduct of a sexual nature.
 * Deliberate intimidation, harassment of any kind, stalking or following. 
 * Advocating for, or encouraging, any of the above behavior.
 * Sustained disruption of community events, including talks and presentations.
