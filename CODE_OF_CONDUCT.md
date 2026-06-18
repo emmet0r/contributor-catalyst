@@ -116,17 +116,25 @@ In addition, this Code of Conduct was reviewed and edited by the author and the 
 
 </br>
 
-### 2025 Cohort [Current]
+### 2026 Cohort [Current]
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🧸[Kayla](https://github.com/kaybcodes) 🌸**   **🎀༘[Kailea](https://github.com/kailealee) 💋**   **🍀[Nia](https://github.com/npNSU) 🔰**   **📸[Devon](https://github.com/devon3583)🐆**  
+**[⚔️Nije'l🎱](https://github.com/Nijel05)**   **[💅🏾Mariah💻](https://github.com/riahdollxo)**   **🎸🌱[Silas](https://github.com/SilasVM)📸🎆**   **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**   **[☠️Amario💎](https://github.com/aiamerson)**
 
-**⭐️[Kaylee](https://github.com/purpleskates123)🎨**   **😎[Denzel](https://github.com/dcaine125) 👌**   **🎸[Silas](https://github.com/SilasVM) 📸**   **🪞[Jakiya](https://github.com/jakbrownbytes) 🪞**   **🐜[Amante'](https://github.com/awood0727) 🛳️**   
+**[🕷️Xavier🕺🏾](https://github.com/xmcgee26)**   **[🎮Amari🏠](https://github.com/MarsGray)**   **[😎Jaden🎸](https://github.com/JadenLunsford)**   **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**   **[💮Kendall💮](https://github.com/kendall-hill)**   **[🌃Jordin🪐](https://github.com/Jordin221)**
+
+</br>
+
+### 2025 Cohort
+
+**🧸[Kayla](https://github.com/kaybcodes) 🌸**   **🎀༘[Kailea](https://github.com/kailealee) 💋**   **🍀[Nia](https://github.com/npNSU) 🔰**   **📸[Devon](https://github.com/devon3583)🐆**   **⭐️[Kaylee](https://github.com/purpleskates123)🎨**
+
+**😎[Denzel](https://github.com/dcaine125) 👌**   **🎸[Silas](https://github.com/SilasVM) 📸**   **🪞[Jakiya](https://github.com/jakbrownbytes) 🪞**   **🐜[Amante'](https://github.com/awood0727) 🛳️**   
 
 </br>
 
 ### 2024 Cohort
 
-&nbsp;&nbsp; **🎮[Jordin](https://github.com/Jordin221) 🐵**   **⭐️[Kemon](https://github.com/klbynum) 💻**
+**🎮[Jordin](https://github.com/Jordin221) 🐵**   **⭐️[Kemon](https://github.com/klbynum) 💻**
 
 **🐐[Elijah](https://github.com/Wavyeli32/)**   **🎺[Jeremiah](https://github.com/JeremiahAHoward)**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 
