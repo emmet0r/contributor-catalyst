@@ -119,17 +119,25 @@ This Code of Conduct is a living document collaboratively co-authored, reviewed,
 
 **[Dr. Emily Lovell](https://github.com/emmet0r/contributor-catalyst)**
 
+### 2026 Cohort
+
+**[⚔️Nije'l🎱](https://github.com/Nijel05)**   **[💅🏾Mariah💻](https://github.com/riahdollxo)**   **🎸🌱[Silas](https://github.com/SilasVM)📸🎆**   **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**   **[☠️Amario💎](https://github.com/aiamerson)**
+
+**[🕷️Xavier🕺🏾](https://github.com/xmcgee26)**   **[🎮Amari🏠](https://github.com/MarsGray)**   **[😎Jaden🎸](https://github.com/JadenLunsford)**   **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**   **[💮Kendall💮](https://github.com/kendall-hill)**   **[🌃Jordin🪐](https://github.com/Jordin221)**
+
+</br>
+
 ### 2025 Cohort
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🧸[Kayla](https://github.com/kaybcodes) 🌸**   **🎀༘[Kailea](https://github.com/kailealee) 💋**   **🍀[Nia](https://github.com/npNSU) 🔰**   **📸[Devon](https://github.com/devon3583)🐆**  
+**🧸[Kayla](https://github.com/kaybcodes) 🌸**   **🎀༘[Kailea](https://github.com/kailealee) 💋**   **🍀[Nia](https://github.com/npNSU) 🔰**   **📸[Devon](https://github.com/devon3583)🐆**   **⭐️[Kaylee](https://github.com/purpleskates123)🎨**
 
-**⭐️[Kaylee](https://github.com/purpleskates123)🎨**   **😎[Denzel](https://github.com/dcaine125) 👌**   **🎸[Silas](https://github.com/SilasVM) 📸**   **🪞[Jakiya](https://github.com/jakbrownbytes) 🪞**   **🐜[Amante'](https://github.com/awood0727) 🛳️**   
+**😎[Denzel](https://github.com/dcaine125) 👌**   **🎸[Silas](https://github.com/SilasVM) 📸**   **🪞[Jakiya](https://github.com/jakbrownbytes) 🪞**   **🐜[Amante'](https://github.com/awood0727) 🛳️**   
 
 </br>
 
 ### 2024 Cohort
 
-&nbsp;&nbsp; **🎮[Jordin](https://github.com/Jordin221) 🐵**   **⭐️[Kemon](https://github.com/klbynum) 💻**
+**🎮[Jordin](https://github.com/Jordin221) 🐵**   **⭐️[Kemon](https://github.com/klbynum) 💻**
 
 **🐐[Elijah](https://github.com/Wavyeli32/)**   **🎺[Jeremiah](https://github.com/JeremiahAHoward)**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 
