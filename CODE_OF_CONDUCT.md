@@ -41,6 +41,8 @@ community include:
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall
   community
+* Recognizing the real-world impact of technology and encouraging responsible, secure,
+  and accessible innovation
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
