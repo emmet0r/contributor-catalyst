@@ -45,7 +45,7 @@ community include:
 The following behaviors are considered harassment and are unacceptable within our community:
 
 * Violence, threats of violence or violent language directed against another person.
-* Discriminatory language, personal insults, or other unconstructive behavior, including sexist, racist, homophobic, transphobic, ableist remarks, trolling, or harassment directed at others.
+* Discriminatory language, personal insults, or other unconstructive behavior, including sexist, racist, homophobic, transphobic, ableist remarks, trolling, or harassment directed at others.  
 * Posting or displaying sexually explicit or violent material.
 * Posting or threatening to post other people’s personally identifying information ("doxing").
 * Inappropriate photography or recording.
