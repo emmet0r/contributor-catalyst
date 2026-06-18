@@ -11,7 +11,7 @@ We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community. The goal of our program is to foster 
 supportive mentorship, personal development, and lasting connection between peers. 
 
-Diversity and Inclusion are amoung our greatest strengths, though they can sometimes present challenges in communication and overall team cohesion. To that end, we have a few 
+Diversity and Inclusion are among our greatest strengths, though they can sometimes present challenges in communication and overall team cohesion. To that end, we have a few 
 ground rules that we ask people to adhere to.
 
 <!--- This code of conduct applies to all spaces managed by the Django project or Django 
@@ -111,12 +111,15 @@ Portions of this code of conduct are derived from the [Citizen Code of Conduct](
 </br>
 In addition, this Code of Conduct was reviewed and edited by the author and the current and past cohorts of the Contributor Catalyst summer mentorship program
 
-### Author
+## Document Authorship & Contributions
+This Code of Conduct is a living document collaboratively co-authored, reviewed, and refined by the Contributor Catalyst Team.
+
+## Co-Authors
+### Program Organizer 
+
 **[Dr. Emily Lovell](https://github.com/emmet0r/contributor-catalyst)**
 
-</br>
-
-### 2026 Cohort [Current]
+### 2026 Cohort
 
 **[⚔️Nije'l🎱](https://github.com/Nijel05)**   **[💅🏾Mariah💻](https://github.com/riahdollxo)**   **🎸🌱[Silas](https://github.com/SilasVM)📸🎆**   **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**   **[☠️Amario💎](https://github.com/aiamerson)**
 
@@ -145,3 +148,4 @@ In addition, this Code of Conduct was reviewed and edited by the author and the 
 **🐐[Aaron](https://github.com/thatguyseven/) 🧩**   **🥽[Sekani](https://github.com/snwarner22) 🎨**
 
 **💥[Onexi](https://github.com/OnexiMedina) 🌴**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+
