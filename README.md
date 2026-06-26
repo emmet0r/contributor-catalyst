@@ -69,7 +69,7 @@ Here are some other popular summer activities:
 - Learn to surf at Cowell's Beach
 - Go for a hike on [Upper Campus](https://maps.ucsc.edu/printable-maps/UCSC_upper_campus_map.pdf), connecting to either [Wilder Ranch State Park](https://www.parks.ca.gov/pages/549/files/WilderRanchSPWebLayout2017.pdf) or [Pogonip](https://www.cityofsantacruz.com/home/showpublisheddocument/42506/635600233927270000) (_at Pogonip, try to find the koi pond or the historic lime kilns!_)
 - Visit the [Santa Cruz Beach Boardwalk](https://beachboardwalk.com) for rides, games, laser tag, mini golf, and amusement park food
-- Explore UCSC's own [Arboretum gardens](https://arboretum.ucsc.edu/visit/admission-and-hours/index.html)
+- Explore UCSC's own [Arboretum gardens](https://arboretum.ucsc.edu/)
 - Learn to dance Bachata, a Latin American social dance! Beginner class on the Westside every Tuesday at 7pm at Swift St Fitness: 509 Swift St., Unit H, (donation based)
 - Learn Capoeira, an Afro-Brazilian martial art,  Mondays - Thursdays at 6pm at Raizes Do Brasil: 207 McPherson St. (first class free, and ask for a student discount for future classes)
 - Watch (or participate in) Salsa dancing on Tuesdays 7pm - 10pm at Abbott Square (free, in Downtown)
