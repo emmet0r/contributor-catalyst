@@ -114,9 +114,7 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 - Stephanie Lieggi (she/her) : slieggi@ucsc.edu
 
 If you believe someone is violating the code of conduct we ask that you report it to the community organizers listed above. If a report involved a community organizer - or you would feel more comfortable reporting to someone else at UC Santa Cruz - you may also reach out to:
-- Lorato Anderson (she/her), _Director of Diversity, Equity, and Inclusion in Graduate Studies_ (lodander@ucsc.edu)
-- Jarett Haley (he/him), _Retention Specialist, Office for African, Black, Caribbean Student Success_ (jdhaley@ucsc.edu)
-- Ariana Yancey, _Graduate Student Intern, Office for African, Black, Caribbean Student Success_ (ayancey@ucsc.edu)
+- Melissa Chimwaza (she/her), _African, Black, Caribbean Student Retention Specialist_ (mchimwaz@ucsc.edu)
 
 The identity of any individuals involved in a report will remain confidential, unless consent is given or required by campus procedures or by law. 
 
