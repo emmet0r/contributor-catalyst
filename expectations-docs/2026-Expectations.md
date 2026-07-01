@@ -81,5 +81,10 @@
 - Meet new people and make valuable connections.
 - Build a stronger portfolio and improve my networking skills to help me secure a well-paying job.
 ## Authors
-[Mariah](https://github.com/riahdollxo)
-[Nije'l](https://github.com/Nijel05) 
+- [Mariah](https://github.com/riahdollxo) 
+- [Amari](https://github.com/MarsGray)
+- [Xavier](https://github.com/xmcgee26)
+- [Amario](https://github.com/aiamerson)
+- [Des](https://github.com/DesmondD10)
+- [Nije'l](https://github.com/Nijel05) 
+
