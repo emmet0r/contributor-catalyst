@@ -2,44 +2,36 @@
 *A summer mentorship program hosted by the UC Santa Cruz Open Source Program Office*
 
 ## Meet the 2026 Cohort
-### **[🎱Nijel⚔️](https://github.com/Nijel05).**
-### **[☠️Amario☠️](https://github.com/aiamerson)**
+### **[⚔️Nije'l🎱](https://github.com/Nijel05)**
+### [💅🏾Mariah💻](https://github.com/riahdollxo)
+### **🎸🌱[Silas](https://github.com/SilasVM)📸🎆**
+### **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**
+### **[☠️Amario💎](https://github.com/aiamerson)**
 ### **[🕷️Xavier🕺🏾](https://github.com/xmcgee26)**
-### **[🕷️Amari👽](https://github.com/MarsGray)**
+### **[🎮Amari🏠](https://github.com/MarsGray)**
 ### **[😎Jaden🎸](https://github.com/JadenLunsford)**
 ### **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**
 ### **[💮Kendall💮](https://github.com/kendall-hill)**
 ### **[🌃Jordin🪐](https://github.com/Jordin221)**
 
-
-## Meet the 2025 Cohort
-### **[🧸Kayla🌸](https://github.com/kaybcodes)**
-### **[🎀༘Kailea💋](https://github.com/kailealee)**
-### **🍀[Nia](https://github.com/npNSU) 🔰**
-### **📸[Devon](https://github.com/devon3583)🐆**
-### **[🐜Amante'🛳️](https://github.com/awood0727)**
-### **[🪞Jakiya🪞](https://github.com/jakbrownbytes)** 
-### **⭐️[Kaylee](https://github.com/purpleskates123)🎨**
-### **[😎Denzel👌](https://github.com/dcaine125)**
-### **🎸[Silas](https://github.com/SilasVM) 📸**
-#### [2025 Cohort Expectations](https://github.com/emmet0r/contributor-catalyst/blob/main/2025-Exepctations.md)
-
-
 </br>
 
 ## Past Cohorts
 ###### 2025:
-#### **[🧸Kayla🌸](https://github.com/kaybcodes)** **[🎀༘Kailea💋](https://github.com/kailealee)** **🍀[Nia](https://github.com/npNSU) 🔰**
-#### **📸[Devon](https://github.com/devon3583)🐆** **[🐜Amante'🛳️](https://github.com/awood0727)** **[🪞Jakiya🪞](https://github.com/jakbrownbytes)**
-#### **⭐️[Kaylee](https://github.com/purpleskates123)🎨** **[😎Denzel👌](https://github.com/dcaine125)** **🎸[Silas](https://github.com/SilasVM) 📸**
+
+#### **[🧸Kayla🌸](https://github.com/kaybcodes)**, **[🎀༘Kailea💋](https://github.com/kailealee)**
+#### **🍀[Nia](https://github.com/npNSU) 🔰**, **📸[Devon](https://github.com/devon3583)🐆**
+#### **[🐜Amante'🛳️](https://github.com/awood0727)**, **[🪞Jakiya🪞](https://github.com/jakbrownbytes)** 
+#### **⭐️[Kaylee](https://github.com/purpleskates123)🎨**, **[😎Denzel👌](https://github.com/dcaine125)**
+#### **🎸[Silas](https://github.com/SilasVM) 📸**
 #### [2025 Cohort Expectations](https://github.com/emmet0r/contributor-catalyst/blob/main/2025-Exepctations.md)
 ###### 2024:
-#### **[🎮Jordin🐵](https://github.com/Jordin221)** **[⭐️Kemon💻](https://github.com/klbynum)**
-#### **[🐐Elijah](https://github.com/Wavyeli32/)** **[🎺Jeremiah](https://github.com/JeremiahAHoward)** **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+#### **[🎮Jordin🐵](https://github.com/Jordin221)**, **[⭐️Kemon💻](https://github.com/klbynum)**
+#### **[🐐Elijah](https://github.com/Wavyeli32/)**, **[🎺Jeremiah](https://github.com/JeremiahAHoward)**, **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 #### **[Cohort Expectations for 2024](https://github.com/emmet0r/contributor-catalyst/blob/main/2024-expectations.md)**
 ###### 2023: 
-#### **[🐐Aaron🧩](https://github.com/thatguyseven/)** **[🥽Sekani🎨](https://github.com/snwarner22)**
-#### **[💥Onexi🌴](https://github.com/OnexiMedina)**   **🕴🏾[Silas](https://github.com/SilasVM) 📸**
+#### **[🐐Aaron🧩](https://github.com/thatguyseven/)**, **[🥽Sekani🎨](https://github.com/snwarner22)**
+#### **[💥Onexi🌴](https://github.com/OnexiMedina)**, **🕴🏾[Silas](https://github.com/SilasVM) 📸**
 
 </br>
 
@@ -77,7 +69,7 @@ Here are some other popular summer activities:
 - Learn to surf at Cowell's Beach
 - Go for a hike on [Upper Campus](https://maps.ucsc.edu/printable-maps/UCSC_upper_campus_map.pdf), connecting to either [Wilder Ranch State Park](https://www.parks.ca.gov/pages/549/files/WilderRanchSPWebLayout2017.pdf) or [Pogonip](https://www.cityofsantacruz.com/home/showpublisheddocument/42506/635600233927270000) (_at Pogonip, try to find the koi pond or the historic lime kilns!_)
 - Visit the [Santa Cruz Beach Boardwalk](https://beachboardwalk.com) for rides, games, laser tag, mini golf, and amusement park food
-- Explore UCSC's own [Arboretum gardens](https://arboretum.ucsc.edu/visit/admission-and-hours/index.html)
+- Explore UCSC's own [Arboretum gardens](https://arboretum.ucsc.edu/)
 - Learn to dance Bachata, a Latin American social dance! Beginner class on the Westside every Tuesday at 7pm at Swift St Fitness: 509 Swift St., Unit H, (donation based)
 - Learn Capoeira, an Afro-Brazilian martial art,  Mondays - Thursdays at 6pm at Raizes Do Brasil: 207 McPherson St. (first class free, and ask for a student discount for future classes)
 - Watch (or participate in) Salsa dancing on Tuesdays 7pm - 10pm at Abbott Square (free, in Downtown)
@@ -137,6 +129,17 @@ To get yourself added here, head over to your closed pull request and leave the 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/purpleskates123"><img src="https://avatars.githubusercontent.com/u/216603447?v=4?s=100" width="100px;" alt="Kaylee Williams"/><br /><sub><b>Kaylee Williams</b></sub></a><br /><a href="#doc-purpleskates123" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/awood0727"><img src="https://avatars.githubusercontent.com/u/216573369?v=4?s=100" width="100px;" alt="Amante' Woodley"/><br /><sub><b>Amante' Woodley</b></sub></a><br /><a href="#doc-awood0727" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jakbrownbytes"><img src="https://avatars.githubusercontent.com/u/216607786?v=4?s=100" width="100px;" alt="Jakiya Brown"/><br /><sub><b>Jakiya Brown</b></sub></a><br /><a href="#doc-jakbrownbytes" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/aiamerson"><img src="https://avatars.githubusercontent.com/u/227625149?v=4?s=100" width="100px;" alt="Amario Amerson"/><br /><sub><b>Amario Amerson</b></sub></a><br /><a href="#doc-aiamerson" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/xmcgee26"><img src="https://avatars.githubusercontent.com/u/259361766?v=4?s=100" width="100px;" alt="Xavier McGee"/><br /><sub><b>Xavier McGee</b></sub></a><br /><a href="#doc-xmcgee26" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DesmondD10"><img src="https://avatars.githubusercontent.com/u/156851030?v=4?s=100" width="100px;" alt="Desmond Dunlap"/><br /><sub><b>Desmond Dunlap</b></sub></a><br /><a href="#doc-DesmondD10" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://mariahpiggs.my.canva.site/"><img src="https://avatars.githubusercontent.com/u/232701533?v=4?s=100" width="100px;" alt="Mariah Piggs"/><br /><sub><b>Mariah Piggs</b></sub></a><br /><a href="#doc-riahdollxo" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nijel05"><img src="https://avatars.githubusercontent.com/u/209801198?v=4?s=100" width="100px;" alt="Nijel05"/><br /><sub><b>Nijel05</b></sub></a><br /><a href="#doc-Nijel05" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MarsGray"><img src="https://avatars.githubusercontent.com/u/170032477?v=4?s=100" width="100px;" alt="MarsGray"/><br /><sub><b>MarsGray</b></sub></a><br /><a href="#doc-MarsGray" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kendall-hill"><img src="https://avatars.githubusercontent.com/u/118570854?v=4?s=100" width="100px;" alt="Kendall Hill"/><br /><sub><b>Kendall Hill</b></sub></a><br /><a href="#doc-kendall-hill" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kameron-ctrl"><img src="https://avatars.githubusercontent.com/u/79770549?v=4?s=100" width="100px;" alt="Kameron Benjamin"/><br /><sub><b>Kameron Benjamin</b></sub></a><br /><a href="#doc-kameron-ctrl" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JadenLunsford"><img src="https://avatars.githubusercontent.com/u/294024924?v=4?s=100" width="100px;" alt="Jaden Lunsford"/><br /><sub><b>Jaden Lunsford</b></sub></a><br /><a href="#doc-JadenLunsford" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
