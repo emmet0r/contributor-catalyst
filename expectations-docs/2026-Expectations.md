@@ -81,3 +81,4 @@
 - Meet new people and make valuable connections.
 - Build a stronger portfolio and improve my networking skills to help me secure a well-paying job.
 ## Authors
+[Mariah](https://github.com/riahdollxo)
