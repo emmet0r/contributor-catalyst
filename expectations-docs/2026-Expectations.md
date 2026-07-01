@@ -85,5 +85,6 @@
 - [Amari](https://github.com/MarsGray)
 - [Xavier](https://github.com/xmcgee26)
 - [Amario](https://github.com/aiamerson)
-- [Des](https://github.com/DesmondD10), 
+- [Des](https://github.com/DesmondD10)
+- [Nije'l](https://github.com/Nijel05) 
 
